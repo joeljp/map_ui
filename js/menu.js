@@ -32,7 +32,7 @@ let allMarkers = [];
 function initJSON(){
     let locs = [];
     // READ META. LOOKS LIKE THIS: [["tid","birth","sex",…],["ankarsrum_om1",1934,"M",…], … ]
-    $.getJSON("dat/lia/lia.json", function(json){ // was meta.json
+    $.getJSON("dat/lia.json", function(json){ // was meta.json
 	Sets.initSuperSet(json);
 	locs = Object.keys(Sets.SuperSet["place"]);
 	initMenu();
