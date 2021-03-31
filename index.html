@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
+    
+    <link rel="stylesheet" type="text/css" href="slider.css">
+    
+    <script src="jquery-3.5.1.min.js"></script>
+    <script src="js/sets.js"></script>
+    <script src="js/menu.js"></script>
+    <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCeGVnQFiyEzY0bOKoaLt-GZxjdztiG8gc&callback=initJSON&libraries=drawing,geometry&v=weekly" defer></script>
+
+    <style>
+      body {
+	  display: grid;
+	  grid-template-rows: 20px 1fr;
+	  grid-template-columns: 35% 1fr;
+	  grid-gap: 8px;
+	  grid-template-areas: "head head" "meta map";
+      }
+      .head{
+	  grid-area: head;
+	  font-size: 1vw;
+      }
+      /* Now using css on body
+      #outer-grid > div {
+	  background-color: limegreen;
+	  color: red;
+	  padding: 4px;
+	  font-size: 2vw;
+      }
+      */
+      #inner-grid {
+	  display: grid;
+	  border: 1px solid purple;
+	  padding: 3px;
+	  grid-template-columns: 15% 15% 1fr 10%;
+	  grid-auto-rows: minmax(min-content, max-content);
+/*	  grid-template-rows: 12ch 12ch minmax(30px, 4ch); */
+	  grid-gap: 1px;
+/*	  grid-template-areas: "this that other" "tids tids tids"; */
+      }
+/*      #tids{grid-area: tids;}*/
+      #inner-grid > div {
+	  background: white;
+	  padding: 6px;
+	  border: 1px solid purple;
+	  font-size: 1vw;
+      }
+      #map{
+	  height: 800px;
+	  border: 1px solid purple;
+      }
+      .cell{
+	  border: 1px solid purple;
+	  padding: 2px;
+      }
+      .selector {
+	  display: grid;
+	  border: 1px solid purple;
+	  padding: 3px;
+	  grid-template-columns: 1fr 1fr 1fr;
+	  grid-gap: 12px;
+	  text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="head" id="head">
+      Some longwinded discription of what this UI is and what might be achieved by availing oneself of it :-)
+    </div>
+    <div id="inner-grid"></div>
+    <div id="map">Google map</div>
+  </body>
+</html>

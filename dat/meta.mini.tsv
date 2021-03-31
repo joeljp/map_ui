@@ -1,0 +1,889 @@
+tid	birth	sex	age	agegroup	place	area	region	country
+ankarsrum_om1	1934	M	66	B	Ankarsrum	Småland	Götaland	Sweden
+ankarsrum_om3	1940	M	60	B	Ankarsrum	Småland	Götaland	Sweden
+ankarsrum_ym1	1973	M	27	A	Ankarsrum	Småland	Götaland	Sweden
+anundsjo_om2	1924	M	75	B	Anundsjö	Ångermanland	Norrland	Sweden
+anundsjo_ow3	1928	F	71	B	Anundsjö	Ångermanland	Norrland	Sweden
+arjeplog_om1	1935	M	64	B	Arjeplog	Norrbotten	Norrland	Sweden
+arsunda_ow1	1932	F	67	B	Årsunda	Gästrikland	Norrland	Sweden
+arsunda_om1	1930	M	69	B	Årsunda	Gästrikland	Norrland	Sweden
+arsunda_om2	1927	M	73	B	Årsunda	Gästrikland	Norrland	Sweden
+arsunda_ow2	1929	F	70	B	Årsunda	Gästrikland	Norrland	Sweden
+asby_om2	1933	M	66	B	Asby	Småland	Götaland	Sweden
+asby_om3	1927	M	73	B	Asby	Småland	Götaland	Sweden
+asby_ym1	1974	M	25	A	Asby	Småland	Götaland	Sweden
+bara_om1	1939	M	59	B	Bara	Skåne	Götaland	Sweden
+bara_ow1	1929	F	69	B	Bara	Skåne	Götaland	Sweden
+bara_om3	1933	M	66	B	Bara	Skåne	Götaland	Sweden
+bara_om4	1928	M	70	B	Bara	Skåne	Götaland	Sweden
+bara_ow3	1924	F	74	B	Bara	Skåne	Götaland	Sweden
+bengtsfors_om1	1922	M	77	B	Bengtsfors	Dalsland	Götaland	Sweden
+bengtsfors_om2	1921	M	78	B	Bengtsfors	Dalsland	Götaland	Sweden
+bengtsfors_ym2	1967	M	32	A	Bengtsfors	Dalsland	Götaland	Sweden
+boda_om1	1942	M	56	B	Böda	Öland	Götaland	Sweden
+boda_om3	1918	M	80	B	Böda	Öland	Götaland	Sweden
+boda_ow1	1921	F	77	B	Böda	Öland	Götaland	Sweden
+boda_ow3	1932	F	66	B	Böda	Öland	Götaland	Sweden
+boda_ow2	1931	F	67	B	Böda	Öland	Götaland	Sweden
+bredsatra_om2	1926	M	73	B	Bredsätra	Öland	Götaland	Sweden
+bredsatra_om3	1927	M	72	B	Bredsätra	Öland	Götaland	Sweden
+bredsatra_ow1	1927	F	72	B	Bredsätra	Öland	Götaland	Sweden
+faro_om1	1939	M	60	B	Fårö	Gotland	Gotland	Sweden
+faro_om3	1929	M	70	B	Fårö	Gotland	Gotland	Sweden
+loderup_ow2	1924	F	255	B	Löderup	Skåne	Götaland	Sweden
+floby_om1	1929	M	71	B	Floby	Västergötland	Götaland	Sweden
+floby_om2	1926	M	74	B	Floby	Västergötland	Götaland	Sweden
+floby_ym3	1971	M	29	A	Floby	Västergötland	Götaland	Sweden
+fole_om1	1927	M	72	B	Fole	Gotland	Gotland	Sweden
+fole_om2	1946	M	53	B	Fole	Gotland	Gotland	Sweden
+fole_ym2	1969	M	29	A	Fole	Gotland	Gotland	Sweden
+frillesas_om2	1928	M	71	B	Frillesås	Halland	Götaland	Sweden
+frillesas_om3	1935	M	64	B	Frillesås	Halland	Götaland	Sweden
+frillesas_ow2	1928	F	71	B	Frillesås	Halland	Götaland	Sweden
+indal_om3	1946	M	53	B	Indal	Medelpad	Norrland	Sweden
+indal_ow2	1949	F	50	B	Indal	Medelpad	Norrland	Sweden
+indal_ow3	1937	F	62	B	Indal	Medelpad	Norrland	Sweden
+jamshog_om1	1936	M	64	B	Jämshög	Blekinge	Götaland	Sweden
+jamshog_om2	1940	M	60	B	Jämshög	Blekinge	Götaland	Sweden
+jamshog_ow1	1939	F	61	B	Jämshög	Blekinge	Götaland	Sweden
+kola_om1	1941	M	57	B	Köla	Värmland	Svealand	Sweden
+kola_om2	1929	M	69	B	Köla	Värmland	Svealand	Sweden
+kola_om4	NULL	M	0	B	Köla	Värmland	Svealand	Sweden
+kola_ym3	1962	M	36	A	Köla	Värmland	Svealand	Sweden
+kola_ym4	1973	M	25	A	Köla	Värmland	Svealand	Sweden
+leksand_om1	1930	M	69	B	Leksand	Dalarna	Svealand	Sweden
+leksand_om3	1947	M	52	B	Leksand	Dalarna	Svealand	Sweden
+leksand_ow3	1925	F	74	B	Leksand	Dalarna	Svealand	Sweden
+leksand_ow4	1930	F	69	B	Leksand	Dalarna	Svealand	Sweden
+loderup_om3	1923	M	76	B	Löderup	Skåne	Götaland	Sweden
+loderup_ow1	1936	F	63	B	Löderup	Skåne	Götaland	Sweden
+nederlulea_om1	1935	M	64	B	Nederluleå	Norrbotten	Norrland	Sweden
+nederlulea_ow1	1927	F	72	B	Nederluleå	Norrbotten	Norrland	Sweden
+norrarorum_om2	1936	M	63	B	Norra Rörum	Skåne	Götaland	Sweden
+norrarorum_om4	1928	M	71	B	Norra Rörum	Skåne	Götaland	Sweden
+norrarorum_om1	1915	M	84	B	Norra Rörum	Skåne	Götaland	Sweden
+norrarorum_ow1	1928	F	71	B	Norra Rörum	Skåne	Götaland	Sweden
+orust_om1	1933	M	65	B	Orust	Bohuslän	Götaland	Sweden
+orust_ow1	1927	F	71	B	Orust	Bohuslän	Götaland	Sweden
+orust_om3	1919	M	79	B	Orust	Bohuslän	Götaland	Sweden
+orust_ow3	1936	F	62	B	Orust	Bohuslän	Götaland	Sweden
+orust_ow2	1928	F	70	B	Orust	Bohuslän	Götaland	Sweden
+orust_ow4	1923	F	75	B	Orust	Bohuslän	Götaland	Sweden
+ossjo_om2	1939	M	61	B	Össjö	Skåne	Götaland	Sweden
+ossjo_om3	1935	M	65	B	Össjö	Skåne	Götaland	Sweden
+ossjo_ow1	1938	F	62	B	Össjö	Skåne	Götaland	Sweden
+ossjo_ow2	1940	F	60	B	Össjö	Skåne	Götaland	Sweden
+overkalix_ow1	1944	F	55	B	Överkalix	Norrbotten	Norrland	Sweden
+overkalix_om1	1940	M	59	B	Överkalix	Norrbotten	Norrland	Sweden
+segerstad_om1	1932	M	67	B	Segerstad	Öland	Götaland	Sweden
+segerstad_om2	1928	M	71	B	Segerstad	Öland	Götaland	Sweden
+segerstad_ym2	1973	M	16	A	Segerstad	Öland	Götaland	Sweden
+skinnskatteberg_om2	NULL	M	0	B	Skinnskatteberg	Västmanland	Svealand	Sweden
+skinnskatteberg_om3	1927	M	72	B	Skinnskatteberg	Västmanland	Svealand	Sweden
+skinnskatteberg_ow1	1928	F	71	B	Skinnskatteberg	Västmanland	Svealand	Sweden
+skinnskatteberg_ym1	1978	M	20	A	Skinnskatteberg	Västmanland	Svealand	Sweden
+sorunda_om1	1924	M	75	B	Sorunda	Södermanland	Svealand	Sweden
+sorunda_om3	1947	M	52	B	Sorunda	Södermanland	Svealand	Sweden
+sorunda_om4	NULL	M	0	B	Sorunda	Södermanland	Svealand	Sweden
+sorunda_ym1	1977	M	22	A	Sorunda	Södermanland	Svealand	Sweden
+sproge_ow1	1926	F	73	B	Sproge	Gotland	Gotland	Sweden
+sproge_ym2	1968	M	31	A	Sproge	Gotland	Gotland	Sweden
+st_anna_om2	1929	M	70	B	St Anna	Östergötland	Götaland	Sweden
+st_anna_om3	1930	M	69	B	St Anna	Östergötland	Götaland	Sweden
+st_anna_ow2	1921	F	78	B	St Anna	Östergötland	Götaland	Sweden
+st_anna_ow3	1923	F	76	B	St Anna	Östergötland	Götaland	Sweden
+torsas_om1	1939	M	61	B	Torsås	Småland	Götaland	Sweden
+torsas_om3	1945	M	55	B	Torsås	Småland	Götaland	Sweden
+torsas_ow3	1936	F	66	B	Torsås	Småland	Götaland	Sweden
+torso_om2	1931	M	69	B	Torsö	Västergötland	Götaland	Sweden
+torso_om3	1930	M	70	B	Torsö	Västergötland	Götaland	Sweden
+torso_ow1	1944	F	56	B	Torsö	Västergötland	Götaland	Sweden
+torso_ow3	1931	F	69	B	Torsö	Västergötland	Götaland	Sweden
+vaxtorp_om1	1923	M	76	B	Våxtorp	Halland	Götaland	Sweden
+vaxtorp_om3	1923	M	75	B	Våxtorp	Halland	Götaland	Sweden
+vaxtorp_ym3	1977	M	22	A	Våxtorp	Halland	Götaland	Sweden
+vasa_19	1932	F	75	B	Västäng	Dalarna	Svealand	Sweden
+viby_om1	1930	M	70	B	Viby	Närke	Svealand	Sweden
+viby_om3	1928	M	71	B	Viby	Närke	Svealand	Sweden
+viby_ym2	1972	M	27	A	Viby	Närke	Svealand	Sweden
+villberga_om1	1922	M	76	B	Villberga	Uppland	Svealand	Sweden
+villberga_om3	1931	M	68	B	Villberga	Uppland	Svealand	Sweden
+villberga_ym3	1970	M	29	A	Villberga	Uppland	Svealand	Sweden
+aaseral_01um	1988	M	19	A	Åseral	Vest-Agder	Sørlandet	Norway
+aaseral_02uk	1981	F	26	A	Åseral	Vest-Agder	Sørlandet	Norway
+aaseral_03gm	1933	M	75	B	Åseral	Vest-Agder	Sørlandet	Norway
+aaseral_04gk	1945	F	63	B	Åseral	Vest-Agder	Sørlandet	Norway
+alvdal_02uk	1987	F	20	A	Alvdal	Hedmark	Østlandet	Norway
+alvdal_01um	1989	M	18	A	Alvdal	Hedmark	Østlandet	Norway
+alvdal_04gk	1933	F	74	B	Alvdal	Hedmark	Østlandet	Norway
+alvdal_03gm	1954	M	53	B	Alvdal	Hedmark	Østlandet	Norway
+aure_03gm	1955	M	53	B	Aure	Møre og Romsdal	Vestlandet	Norway
+aure_04gk	1941	F	67	B	Aure	Møre og Romsdal	Vestlandet	Norway
+brekkom_04gk	1932	F	75	B	Brekkom	Oppland	Østlandet	Norway
+brekkom_02uk	1991	F	16	A	Brekkom	Oppland	Østlandet	Norway
+brekkom_03gm	1942	M	65	B	Brekkom	Oppland	Østlandet	Norway
+brekkom_01um	1982	M	25	A	Brekkom	Oppland	Østlandet	Norway
+drevsjoe_04gk	1946	F	61	B	Drevsjø	Hedmark	Østlandet	Norway
+drevsjoe_03gm	1940	M	67	B	Drevsjø	Hedmark	Østlandet	Norway
+drevsjoe_01um	1992	M	15	A	Drevsjø	Hedmark	Østlandet	Norway
+drevsjoe_02uk	1992	F	15	A	Drevsjø	Hedmark	Østlandet	Norway
+evje_01um	1989	M	18	A	Evje	Aust-Agder	Sørlandet	Norway
+evje_02uk	1991	F	16	A	Evje	Aust-Agder	Sørlandet	Norway
+evje_03gm	1947	M	60	B	Evje	Aust-Agder	Sørlandet	Norway
+evje_04gk	1933	F	74	B	Evje	Aust-Agder	Sørlandet	Norway
+gauldal_01um	1989	M	19	A	Gauldal	Sør-Trøndelag	Trøndelag	Norway
+gauldal_02uk	1989	F	19	A	Gauldal	Sør-Trøndelag	Trøndelag	Norway
+gausdal_01um	1985	M	22	A	Gausdal	Oppland	Østlandet	Norway
+gausdal_05um	1985	M	22	A	Gausdal	Oppland	Østlandet	Norway
+gausdal_04gk	1956	F	51	B	Gausdal	Oppland	Østlandet	Norway
+gausdal_08gk	1960	F	47	B	Gausdal	Oppland	Østlandet	Norway
+hjartdal_01um	1989	M	17	A	Hjartdal	Telemark	Østlandet	Norway
+hjartdal_02uk	1989	F	18	A	Hjartdal	Telemark	Østlandet	Norway
+hjartdal_03gm	1945	M	61	B	Hjartdal	Telemark	Østlandet	Norway
+hjartdal_04gk	1940	F	67	B	Hjartdal	Telemark	Østlandet	Norway
+jevnaker_01um	1982	M	26	A	Jevnaker	Oppland	Østlandet	Norway
+joelster_01um	1989	M	19	A	Jølster	Sogn og Fjordane	Vestlandet	Norway
+joelster_02uk	1984	F	24	A	Jølster	Sogn og Fjordane	Vestlandet	Norway
+joelster_03gm	1939	M	69	B	Jølster	Sogn og Fjordane	Vestlandet	Norway
+joelster_04gk	1955	F	53	B	Jølster	Sogn og Fjordane	Vestlandet	Norway
+kirkenaer_04gk	1949	F	58	B	Kirkenær	Hedmark	Østlandet	Norway
+kirkenaer_08gk	1955	F	52	B	Kirkenær	Hedmark	Østlandet	Norway
+kirkenaer_01um	1986	M	21	A	Kirkenær	Hedmark	Østlandet	Norway
+kirkenaer_05um	1987	M	20	A	Kirkenær	Hedmark	Østlandet	Norway
+kirkesdalen_01um	1990	M	18	A	Kirkesdalen	Troms	Nord-Norge	Norway
+kirkesdalen_02uk	1992	F	16	A	Kirkesdalen	Troms	Nord-Norge	Norway
+kirkesdalen_03gm	1931	M	77	B	Kirkesdalen	Troms	Nord-Norge	Norway
+kirkesdalen_04gk	1940	F	68	B	Kirkesdalen	Troms	Nord-Norge	Norway
+kristiansand_01um	1976	M	31	A	Kristiansand	Vest-Agder	Sørlandet	Norway
+kristiansand_02uk	1976	F	31	A	Kristiansand	Vest-Agder	Sørlandet	Norway
+kristiansand_03gm	1948	M	59	B	Kristiansand	Vest-Agder	Sørlandet	Norway
+kristiansand_04gk	1955	F	52	B	Kristiansand	Vest-Agder	Sørlandet	Norway
+kvam_02uk	1988	F	19	A	Kvam	Oppland	Østlandet	Norway
+kvam_01um	1985	M	22	A	Kvam	Oppland	Østlandet	Norway
+kvam_03gm	1943	M	64	B	Kvam	Oppland	Østlandet	Norway
+kvam_04gk	1927	F	80	B	Kvam	Oppland	Østlandet	Norway
+landvik_01um	1989	M	18	A	Landvik	Aust-Agder	Sørlandet	Norway
+landvik_02uk	1980	F	28	A	Landvik	Aust-Agder	Sørlandet	Norway
+landvik_03gm	1940	M	67	B	Landvik	Aust-Agder	Sørlandet	Norway
+landvik_04gk	1928	F	80	B	Landvik	Aust-Agder	Sørlandet	Norway
+langesund_01um	1990	M	18	A	Langesund	Telemark	Østlandet	Norway
+langesund_02uk	1989	F	19	A	Langesund	Telemark	Østlandet	Norway
+iceland_b1	1986	M	20	A	Reykjavik	NULL	NULL	Iceland
+langesund_03gm	1952	M	56	B	Langesund	Telemark	Østlandet	Norway
+lom_01um	1984	M	23	A	Lom	Oppland	Østlandet	Norway
+lom_02uk	1984	F	24	A	Lom	Oppland	Østlandet	Norway
+lom_04gk	1943	F	64	B	Lom	Oppland	Østlandet	Norway
+lom_03gm	1943	M	64	B	Lom	Oppland	Østlandet	Norway
+luster_01um	1990	M	17	A	Luster	Sogn og Fjordane	Vestlandet	Norway
+luster_02uk	1986	F	21	A	Luster	Sogn og Fjordane	Vestlandet	Norway
+luster_03gm	1939	M	68	B	Luster	Sogn og Fjordane	Vestlandet	Norway
+luster_04gk	1947	F	60	B	Luster	Sogn og Fjordane	Vestlandet	Norway
+luster_06uk	1986	F	21	A	Luster	Sogn og Fjordane	Vestlandet	Norway
+lyngdal_01um	1987	M	21	A	Lyngdal	Vest-Agder	Sørlandet	Norway
+lyngdal_02uk	1983	F	24	A	Lyngdal	Vest-Agder	Sørlandet	Norway
+lyngdal_03gm	1953	M	54	B	Lyngdal	Vest-Agder	Sørlandet	Norway
+lyngdal_04gk	1955	F	52	B	Lyngdal	Vest-Agder	Sørlandet	Norway
+meraaker_01um	1988	M	20	A	Meråker	Nord-Trøndelag	Trøndelag	Norway
+meraaker_02uk	1975	F	32	A	Meråker	Nord-Trøndelag	Trøndelag	Norway
+meraaker_03gm	1940	M	68	B	Meråker	Nord-Trøndelag	Trøndelag	Norway
+meraaker_04gk	1941	F	67	B	Meråker	Nord-Trøndelag	Trøndelag	Norway
+oppdal_01um	1989	M	19	A	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+selbu_04gk	1930	F	78	B	Selbu	Sør-Trøndelag	Trøndelag	Norway
+sirdal_01um	1983	M	24	A	Sirdal	Vest-Agder	Sørlandet	Norway
+sirdal_02uk	1989	F	18	A	Sirdal	Vest-Agder	Sørlandet	Norway
+sirdal_03gm	1947	M	60	B	Sirdal	Vest-Agder	Sørlandet	Norway
+sirdal_04gk	1927	F	80	B	Sirdal	Vest-Agder	Sørlandet	Norway
+skreia_01um	1989	M	18	A	Skreia	Oppland	Østlandet	Norway
+skreia_04gk	1940	F	67	B	Skreia	Oppland	Østlandet	Norway
+skreia_03gm	1935	M	73	B	Skreia	Oppland	Østlandet	Norway
+stange_02uk	1978	F	29	A	Stange	Hedmark	Østlandet	Norway
+stange_03gm	1940	M	67	B	Stange	Hedmark	Østlandet	Norway
+stange_07gm	1928	M	79	B	Stange	Hedmark	Østlandet	Norway
+stange_06uk	1989	F	18	A	Stange	Hedmark	Østlandet	Norway
+stryn_01um	1991	M	16	A	Stryn	Sogn og Fjordane	Vestlandet	Norway
+stryn_02uk	1991	F	16	A	Stryn	Sogn og Fjordane	Vestlandet	Norway
+stryn_03gm	1942	M	66	B	Stryn	Sogn og Fjordane	Vestlandet	Norway
+stryn_04gk	1944	F	63	B	Stryn	Sogn og Fjordane	Vestlandet	Norway
+tinn_04gk	1918	F	89	B	Tinn	Telemark	Østlandet	Norway
+tinn_03gm	1928	M	80	B	Tinn	Telemark	Østlandet	Norway
+tinn_01um	1983	M	24	A	Tinn	Telemark	Østlandet	Norway
+tinn_05um	1983	M	24	A	Tinn	Telemark	Østlandet	Norway
+todalen_01um	1987	M	22	A	Todalen	Møre og Romsdal	Vestlandet	Norway
+todalen_02uk	1991	F	17	A	Todalen	Møre og Romsdal	Vestlandet	Norway
+todalen_03gm	1946	M	62	B	Todalen	Møre og Romsdal	Vestlandet	Norway
+todalen_04gk	1925	F	83	B	Todalen	Møre og Romsdal	Vestlandet	Norway
+valle_01um	1984	M	23	A	Valle	Aust-Agder	Sørlandet	Norway
+valle_02uk	1975	F	32	A	Valle	Aust-Agder	Sørlandet	Norway
+valle_03gm	1943	M	65	B	Valle	Aust-Agder	Sørlandet	Norway
+valle_04gk	1930	F	77	B	Valle	Aust-Agder	Sørlandet	Norway
+vang_03gm	1935	M	72	B	Vang	Oppland	Østlandet	Norway
+vang_04gk	1928	F	79	B	Vang	Oppland	Østlandet	Norway
+vang_02uk	1978	F	29	A	Vang	Oppland	Østlandet	Norway
+vang_01um	1983	M	24	A	Vang	Oppland	Østlandet	Norway
+vegaarshei_01um	1979	M	28	A	Vegårshei	Aust-Agder	Sørlandet	Norway
+vegaarshei_02uk	1985	F	23	A	Vegårshei	Aust-Agder	Sørlandet	Norway
+vegaarshei_03gm	1949	M	59	B	Vegårshei	Aust-Agder	Sørlandet	Norway
+vegaarshei_04gk	1951	F	57	B	Vegårshei	Aust-Agder	Sørlandet	Norway
+vennesla_01um	1984	M	24	A	Vennesla	Vest-Agder	Sørlandet	Norway
+vennesla_02uk	1984	F	24	A	Vennesla	Vest-Agder	Sørlandet	Norway
+vennesla_03gm	1956	M	51	B	Vennesla	Vest-Agder	Sørlandet	Norway
+vennesla_04gk	1959	F	48	B	Vennesla	Vest-Agder	Sørlandet	Norway
+vinje_04gk	1948	F	59	B	Vinje	Telemark	Østlandet	Norway
+vinje_08gk	1928	F	79	B	Vinje	Telemark	Østlandet	Norway
+vinje_01um	1977	M	30	A	Vinje	Telemark	Østlandet	Norway
+vinje_05um	1975	M	32	A	Vinje	Telemark	Østlandet	Norway
+als1	1937	M	71	B	Als	NULL	NULL	Denmark
+oestjylland2	1921	M	87	B	Østjylland	NULL	NULL	Denmark
+andoeya_ma_01	NULL	M	0	B	Andøya	Nordland	Nord-Norge	Norway
+andoeya_ma_02	NULL	F	0	B	Andøya	Nordland	Nord-Norge	Norway
+botnhamn_03	1941	M	65	B	Botnhamn	Troms	Nord-Norge	Norway
+botnhamn_06	1961	M	45	B	Botnhamn	Troms	Nord-Norge	Norway
+medby_74	1991	F	15	A	Medby	Troms	Nord-Norge	Norway
+medby_75	1991	M	15	A	Medby	Troms	Nord-Norge	Norway
+mefjordvaer_19	1941	F	65	B	Mefjordvær	Troms	Nord-Norge	Norway
+mefjordvaer_20	1931	F	75	B	Mefjordvær	Troms	Nord-Norge	Norway
+aeroe2	1930	F	78	B	Ærø	NULL	NULL	Denmark
+aeroe3	1925	M	83	B	Ærø	NULL	NULL	Denmark
+sproge_om3	1935	M	64	B	Sproge	Gotland	Gotland	Sweden
+sjaelland1	1926	M	82	B	Sjælland	NULL	NULL	Denmark
+aasen_35	1939	F	68	B	Åsen	Dalarna	Svealand	Sweden
+aasen_48	1934	F	73	B	Åsen	Dalarna	Svealand	Sweden
+blyberg_165	1949	F	58	B	Blyberg	Dalarna	Svealand	Sweden
+blyberg_168	1945	M	62	B	Blyberg	Dalarna	Svealand	Sweden
+evertsberg_184	1961	F	46	B	Evertsberg	Dalarna	Svealand	Sweden
+brunnsberg_57	1940	M	67	B	Brunnsberg	Dalarna	Svealand	Sweden
+evertsberg_188	1948	F	59	B	Evertsberg	Dalarna	Svealand	Sweden
+klitten_141	1943	M	64	B	Klitten	Dalarna	Svealand	Sweden
+klitten_144	1960	F	47	B	Klitten	Dalarna	Svealand	Sweden
+skolan_69	1993	M	14	A	Älvdalen	Dalarna	Svealand	Sweden
+skolan_79	1993	M	14	A	Älvdalen	Dalarna	Svealand	Sweden
+skolan_77	1992	F	15	A	Älvdalen	Dalarna	Svealand	Sweden
+skolan_78	1992	F	15	A	Älvdalen	Dalarna	Svealand	Sweden
+vasa_06	1950	M	57	B	Västäng	Dalarna	Svealand	Sweden
+vasa_08	1953	M	54	B	Västäng	Dalarna	Svealand	Sweden
+vasa_25	1948	F	59	B	Västäng	Dalarna	Svealand	Sweden
+iceland_a3	1985	F	21	A	Reykjavik	NULL	NULL	Iceland
+iceland_b6	1956	F	50	B	Reykjavik	NULL	NULL	Iceland
+iceland_a1	1987	M	19	A	Reykjavik	NULL	NULL	Iceland
+skreia_02uk	1989	F	18	A	Skreia	Oppland	Østlandet	Norway
+fuglafjoerdur_f6	1992	F	16	A	Fuglafjørður	Norðureysturoy	Eysturoy	Faroe
+klaksvik_k3	1987	F	21	A	Klaksvík	Borðoy	Norðuroyggjar	Faroe
+fuglafjoerdur_f7	1992	F	16	A	Fuglafjørður	Norðureysturoy	Eysturoy	Faroe
+torshavn_t33	1979	M	29	A	Tórshavn	Suðurstreymoy	Streymoy	Faroe
+torshavn_t34	1980	M	28	A	Tórshavn	Suðurstreymoy	Streymoy	Faroe
+sandur_s8	1987	F	21	A	Sandur	Sandoy	Sunnanfjørðs	Faroe
+sandur_s9	1961	F	47	B	Sandur	Sandoy	Sunnanfjørðs	Faroe
+klaksvik_k7	1966	M	42	B	Klaksvík	Borðoy	Norðuroyggjar	Faroe
+klaksvik_k4	1981	F	27	A	Klaksvík	Borðoy	Norðuroyggjar	Faroe
+tvoeroyri_tv10	1956	M	52	B	Tvøroyri	Suðuroy	Sunnanfjørðs	Faroe
+tvoeroyri_tv9	1957	M	51	B	Tvøroyri	Suðuroy	Sunnanfjørðs	Faroe
+tvoeroyri_tv2	1962	F	46	B	Tvøroyri	Suðuroy	Sunnanfjørðs	Faroe
+andoeya_ma_03	NULL	F	0	B	Andøya	Nordland	Nord-Norge	Norway
+andoeya_ma_04	1893	M	66	B	Andøya	Nordland	Nord-Norge	Norway
+bardu_ma_01	1900	M	79	B	Bardu	Troms	Nord-Norge	Norway
+bardu_ma_02	1896	F	83	B	Bardu	Troms	Nord-Norge	Norway
+bardu_ma_03	1912	M	67	B	Bardu	Troms	Nord-Norge	Norway
+faro_chi1	NULL		0	NULL	Fårö	Gotland	Gotland	Sweden
+fole_chi1	NULL		0	NULL	Fole	Gotland	Gotland	Sweden
+jevnaker_02uk	1984	F	23	A	Jevnaker	Oppland	Østlandet	Norway
+jevnaker_03gm	1934	M	77	B	Jevnaker	Oppland	Østlandet	Norway
+jevnaker_04gk	1956	F	52	B	Jevnaker	Oppland	Østlandet	Norway
+anundsjo_ow4	NULL	F	0	B	Anundsjö	Ångermanland	Norrland	Sweden
+langesund_04gk	1961	F	47	B	Langesund	Telemark	Østlandet	Norway
+nissedal_01um	1990	M	17	A	Nissedal	Telemark	Østlandet	Norway
+nissedal_02uk	1990	F	17	A	Nissedal	Telemark	Østlandet	Norway
+andoeya_ma_06	NULL	F	0	B	Andøya	Nordland	Nord-Norge	Norway
+nissedal_04gk	1921	F	86	B	Nissedal	Telemark	Østlandet	Norway
+nissedal_03gm	1944	M	64	B	Nissedal	Telemark	Østlandet	Norway
+trysil_01um	1983	M	25	A	Trysil	Hedmark	Østlandet	Norway
+trysil_02uk	1984	F	24	A	Trysil	Hedmark	Østlandet	Norway
+trysil_03gm	1939	M	69	B	Trysil	Hedmark	Østlandet	Norway
+trysil_04gk	1944	F	64	B	Trysil	Hedmark	Østlandet	Norway
+aremark_01um	1989	M	19	A	Aremark	Østfold	Østlandet	Norway
+aremark_02uk	1987	F	21	A	Aremark	Østfold	Østlandet	Norway
+aremark_03gm	1947	M	62	B	Aremark	Østfold	Østlandet	Norway
+aremark_04gk	1935	F	73	B	Aremark	Østfold	Østlandet	Norway
+aure_01um	1987	M	22	A	Aure	Møre og Romsdal	Vestlandet	Norway
+aure_02uk	1980	F	28	A	Aure	Møre og Romsdal	Vestlandet	Norway
+beiarn_01um	1993	M	16	A	Beiarn	Nordland	Nord-Norge	Norway
+beiarn_02uk	1992	F	16	A	Beiarn	Nordland	Nord-Norge	Norway
+beiarn_03gm	1940	M	69	B	Beiarn	Nordland	Nord-Norge	Norway
+beiarn_04gk	1941	F	68	B	Beiarn	Nordland	Nord-Norge	Norway
+beiarn_05um	1988	M	21	A	Beiarn	Nordland	Nord-Norge	Norway
+bergen_01um	1991	M	17	A	Bergen	Hordaland	Vestlandet	Norway
+bergen_02uk	1983	F	25	A	Bergen	Hordaland	Vestlandet	Norway
+bergen_03gm	1952	M	56	B	Bergen	Hordaland	Vestlandet	Norway
+bergen_04gk	1945	F	64	B	Bergen	Hordaland	Vestlandet	Norway
+bodoe_01um	1983	M	26	A	Bodø	Nordland	Nord-Norge	Norway
+bodoe_02uk	1983	F	26	A	Bodø	Nordland	Nord-Norge	Norway
+bodoe_03gm	1944	M	64	B	Bodø	Nordland	Nord-Norge	Norway
+bodoe_04gk	1953	F	56	B	Bodø	Nordland	Nord-Norge	Norway
+boemlo_01um	1992	M	16	A	Bømlo	Hordaland	Vestlandet	Norway
+boemlo_02uk	1982	F	26	A	Bømlo	Hordaland	Vestlandet	Norway
+boemlo_03gm	1941	M	66	B	Bømlo	Hordaland	Vestlandet	Norway
+boemlo_04gk	1949	F	59	B	Bømlo	Hordaland	Vestlandet	Norway
+brunlanes_01um	1979	M	29	A	Brunlanes	Vestfold	Østlandet	Norway
+brunlanes_02uk	1977	F	31	A	Brunlanes	Vestfold	Østlandet	Norway
+brunlanes_03gm	1932	M	76	B	Brunlanes	Vestfold	Østlandet	Norway
+brunlanes_04gk	1930	F	78	B	Brunlanes	Vestfold	Østlandet	Norway
+darbu_01um	1993	M	15	A	Darbu	Buskerud	Østlandet	Norway
+darbu_02uk	1991	F	17	A	Darbu	Buskerud	Østlandet	Norway
+darbu_03gm	1952	M	56	B	Darbu	Buskerud	Østlandet	Norway
+darbu_04gk	1954	F	54	B	Darbu	Buskerud	Østlandet	Norway
+eidfjord_01um	1978	M	29	A	Eidfjord	Hordaland	Vestlandet	Norway
+eidfjord_02uk	1978	F	30	A	Eidfjord	Hordaland	Vestlandet	Norway
+eidfjord_03gm	1932	M	76	B	Eidfjord	Hordaland	Vestlandet	Norway
+eidfjord_04gk	1942	F	66	B	Eidfjord	Hordaland	Vestlandet	Norway
+flaa_01um	1988	M	20	A	Flå	Buskerud	Østlandet	Norway
+flaa_02uk	1994	F	14	A	Flå	Buskerud	Østlandet	Norway
+flaa_03gm	1937	M	71	B	Flå	Buskerud	Østlandet	Norway
+flaa_04gk	1937	F	72	B	Flå	Buskerud	Østlandet	Norway
+fredrikstad_01um	1982	M	27	A	Fredrikstad	Østfold	Østlandet	Norway
+fredrikstad_02uk	1990	F	19	A	Fredrikstad	Østfold	Østlandet	Norway
+fredrikstad_03gm	1937	M	71	B	Fredrikstad	Østfold	Østlandet	Norway
+fredrikstad_04gk	1937	F	72	B	Fredrikstad	Østfold	Østlandet	Norway
+fusa_01um	1985	M	23	A	Fusa	Hordaland	Vestlandet	Norway
+fusa_02uk	1991	F	17	A	Fusa	Hordaland	Vestlandet	Norway
+fusa_03gm	1956	M	53	B	Fusa	Hordaland	Vestlandet	Norway
+fusa_04gk	1954	F	54	B	Fusa	Hordaland	Vestlandet	Norway
+gjesdal_01um	1979	M	29	A	Gjesdal	Rogaland	Vestlandet	Norway
+gjesdal_02uk	1982	F	26	A	Gjesdal	Rogaland	Vestlandet	Norway
+gjesdal_03gm	1957	M	51	B	Gjesdal	Rogaland	Vestlandet	Norway
+gjesdal_04gk	1943	F	65	B	Gjesdal	Rogaland	Vestlandet	Norway
+hammerfest_02uk	1989	F	19	A	Hammerfest	Finnmark	Nord-Norge	Norway
+hammerfest_03gm	1949	M	68	B	Hammerfest	Finnmark	Nord-Norge	Norway
+hammerfest_04gk	1958	F	51	B	Hammerfest	Finnmark	Nord-Norge	Norway
+hjelmeland_02uk	1985	F	23	A	Hjelmeland	Rogaland	Vestlandet	Norway
+hjelmeland_01um	1983	M	25	A	Hjelmeland	Rogaland	Vestlandet	Norway
+hjelmeland_03gm	1936	M	72	B	Hjelmeland	Rogaland	Vestlandet	Norway
+hjelmeland_04gk	1952	F	56	B	Hjelmeland	Rogaland	Vestlandet	Norway
+hyllestad_01um	1985	M	22	A	Hyllestad	Sogn og Fjordane	Vestlandet	Norway
+hyllestad_02uk	1979	F	29	A	Hyllestad	Sogn og Fjordane	Vestlandet	Norway
+hyllestad_03gm	1925	M	83	B	Hyllestad	Sogn og Fjordane	Vestlandet	Norway
+hyllestad_04gk	1952	F	56	B	Hyllestad	Sogn og Fjordane	Vestlandet	Norway
+kalvaag_01um	1992	M	16	A	Kalvåg	Sogn og Fjordane	Vestlandet	Norway
+kalvaag_02uk	1987	F	21	A	Kalvåg	Sogn og Fjordane	Vestlandet	Norway
+kalvaag_03gm	1939	M	69	B	Kalvåg	Sogn og Fjordane	Vestlandet	Norway
+kalvaag_04gk	1927	F	81	B	Kalvåg	Sogn og Fjordane	Vestlandet	Norway
+andoeya_ma_05	1871	M	92	B	Andøya	Nordland	Nord-Norge	Norway
+aurland_ma_01	1888	M	68	B	Aurland	Sogn og Fjordane	Vestlandet	Norway
+aurland_ma_02	NULL	F	0	B	Aurland	Sogn og Fjordane	Vestlandet	Norway
+brandbu_ma_01	1893	M	80	B	Brandbu	Oppland	Østlandet	Norway
+lyngen_ma_01	1894	M	85	B	Lyngen	Troms	Nord-Norge	Norway
+lyngen_ma_02	1901	M	78	B	Lyngen	Troms	Nord-Norge	Norway
+soerreisa_ma_01	NULL	M	0	B	Sørreisa	Troms	Nord-Norge	Norway
+torsken_ma_01	NULL	M	0	B	Torsken	Troms	Nord-Norge	Norway
+tromsoeysund_ma_01	1872	M	86	B	Tromsøysund	Troms	Nord-Norge	Norway
+maalselv_ma_01	1888	M	91	B	Målselv	Troms	Nord-Norge	Norway
+maalselv_ma_02	NULL	F	0	B	Målselv	Troms	Nord-Norge	Norway
+karlsoey_01um	1984	M	24	A	Karlsøy	Troms	Nord-Norge	Norway
+karlsoey_02uk	1980	F	28	A	Karlsøy	Troms	Nord-Norge	Norway
+karlsoey_03gm	1916	M	255	B	Karlsøy	Troms	Nord-Norge	Norway
+karmoey_01um	1993	M	15	A	Karmøy	Rogaland	Vestlandet	Norway
+karmoey_02uk	1993	F	15	A	Karmøy	Rogaland	Vestlandet	Norway
+karmoey_03gm	1957	M	51	B	Karmøy	Rogaland	Vestlandet	Norway
+karmoey_04gk	1959	F	48	B	Karmøy	Rogaland	Vestlandet	Norway
+kjoellefjord_01um	1992	M	17	A	Kjøllefjord	Finnmark	Nord-Norge	Norway
+kjoellefjord_02uk	1992	F	16	A	Kjøllefjord	Finnmark	Nord-Norge	Norway
+kjoellefjord_03gm	1949	M	59	B	Kjøllefjord	Finnmark	Nord-Norge	Norway
+kjoellefjord_04gk	1951	F	58	B	Kjøllefjord	Finnmark	Nord-Norge	Norway
+kvaefjord_01um	1991	M	17	A	Kvæfjord	Troms	Nord-Norge	Norway
+kvaefjord_02uk	1990	F	18	A	Kvæfjord	Troms	Nord-Norge	Norway
+kvaefjord_03gm	1946	M	62	B	Kvæfjord	Troms	Nord-Norge	Norway
+kvaefjord_04gk	1922	F	86	B	Kvæfjord	Troms	Nord-Norge	Norway
+kvinnherad_01um	1982	M	26	A	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_02uk	1982	F	26	A	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_03gm	1950	M	58	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_04gk	1947	F	61	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kaafjord_01um	1992	M	16	A	Kåfjord	Troms	Nord-Norge	Norway
+kaafjord_02uk	1992	F	16	A	Kåfjord	Troms	Nord-Norge	Norway
+kaafjord_03gm	1938	M	70	B	Kåfjord	Troms	Nord-Norge	Norway
+kaafjord_04gk	1945	F	63	B	Kåfjord	Troms	Nord-Norge	Norway
+kaafjord_07gm	1952	M	56	B	Kåfjord	Troms	Nord-Norge	Norway
+lardal_01um	1984	M	25	A	Lardal	Vestfold	Østlandet	Norway
+lardal_02uk	1979	F	29	A	Lardal	Vestfold	Østlandet	Norway
+lardal_03gm	1953	M	65	B	Lardal	Vestfold	Østlandet	Norway
+lardal_04gk	1940	F	68	B	Lardal	Vestfold	Østlandet	Norway
+lavangen_01um	1983	M	25	A	Lavangen	Troms	Nord-Norge	Norway
+lavangen_02uk	1989	F	19	A	Lavangen	Troms	Nord-Norge	Norway
+lavangen_03gm	1935	M	73	B	Lavangen	Troms	Nord-Norge	Norway
+lavangen_04gk	1937	F	71	B	Lavangen	Troms	Nord-Norge	Norway
+lindaas_01um	1985	M	23	A	Lindås	Hordaland	Vestlandet	Norway
+lindaas_02uk	1989	F	19	A	Lindås	Hordaland	Vestlandet	Norway
+lindaas_03gm	1953	M	55	B	Lindås	Hordaland	Vestlandet	Norway
+lindaas_04gk	1952	F	56	B	Lindås	Hordaland	Vestlandet	Norway
+myre_01um	1983	M	26	A	Myre	Nordland	Nord-Norge	Norway
+myre_02uk	1985	F	23	A	Myre	Nordland	Nord-Norge	Norway
+myre_03gm	1950	M	59	B	Myre	Nordland	Nord-Norge	Norway
+myre_04gk	1955	F	53	B	Myre	Nordland	Nord-Norge	Norway
+namdalen_01um	1989	M	19	A	Namdalen	Nord-Trøndelag	Trøndelag	Norway
+namdalen_02uk	1989	F	19	A	Namdalen	Nord-Trøndelag	Trøndelag	Norway
+namdalen_03gm	1943	M	64	B	Namdalen	Nord-Trøndelag	Trøndelag	Norway
+namdalen_04gk	1945	F	63	B	Namdalen	Nord-Trøndelag	Trøndelag	Norway
+oppdal_03gm	1956	M	53	B	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+oppdal_02uk	1989	F	19	A	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+oppdal_04gk	1957	F	52	B	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+roemskog_02uk	1983	F	25	A	Rømskog	Østfold	Østlandet	Norway
+roemskog_01um	1980	M	28	A	Rømskog	Østfold	Østlandet	Norway
+roemskog_03gm	1953	M	55	B	Rømskog	Østfold	Østlandet	Norway
+roemskog_04gk	1951	F	57	B	Rømskog	Østfold	Østlandet	Norway
+rollag_01um	1981	M	28	A	Rollag	Buskerud	Østlandet	Norway
+rollag_02uk	1988	F	21	A	Rollag	Buskerud	Østlandet	Norway
+rollag_03gm	1940	M	69	B	Rollag	Buskerud	Østlandet	Norway
+rollag_04gk	1945	F	64	B	Rollag	Buskerud	Østlandet	Norway
+selbu_01um	1994	M	14	A	Selbu	Sør-Trøndelag	Trøndelag	Norway
+selbu_02uk	1997	F	11	A	Selbu	Sør-Trøndelag	Trøndelag	Norway
+selbu_03gm	1951	M	57	B	Selbu	Sør-Trøndelag	Trøndelag	Norway
+sokndal_01um	1987	M	21	A	Sokndal	Rogaland	Vestlandet	Norway
+sokndal_02uk	1989	F	19	A	Sokndal	Rogaland	Vestlandet	Norway
+sokndal_03gm	1943	M	65	B	Sokndal	Rogaland	Vestlandet	Norway
+sokndal_04gk	1954	F	54	B	Sokndal	Rogaland	Vestlandet	Norway
+stamsund_01um	1992	M	16	A	Stamsund	Nordland	Nord-Norge	Norway
+stamsund_02uk	1976	F	33	A	Stamsund	Nordland	Nord-Norge	Norway
+stamsund_03gm	1940	M	68	B	Stamsund	Nordland	Nord-Norge	Norway
+stamsund_04gk	1952	F	56	B	Stamsund	Nordland	Nord-Norge	Norway
+stavanger_01um	1987	M	21	A	Stavanger	Rogaland	Vestlandet	Norway
+stavanger_02uk	1990	F	18	A	Stavanger	Rogaland	Vestlandet	Norway
+stavanger_03gm	1939	M	69	B	Stavanger	Rogaland	Vestlandet	Norway
+stavanger_04gk	1949	F	59	B	Stavanger	Rogaland	Vestlandet	Norway
+steigen_01um	1980	M	29	A	Steigen	Nordland	Nord-Norge	Norway
+steigen_02uk	1985	F	24	A	Steigen	Nordland	Nord-Norge	Norway
+steigen_03gm	1950	M	59	B	Steigen	Nordland	Nord-Norge	Norway
+steigen_04gk	1954	F	55	B	Steigen	Nordland	Nord-Norge	Norway
+stonglandseidet_47	1924	M	82	B	Stonglandseidet	Troms	Nord-Norge	Norway
+stonglandseidet_50	1937	F	69	B	Stonglandseidet	Troms	Nord-Norge	Norway
+suldal_01um	1981	M	27	A	Suldal	Rogaland	Vestlandet	Norway
+suldal_02uk	1984	F	24	A	Suldal	Rogaland	Vestlandet	Norway
+suldal_03gm	1944	M	64	B	Suldal	Rogaland	Vestlandet	Norway
+suldal_04gk	1942	F	66	B	Suldal	Rogaland	Vestlandet	Norway
+sylling_01um	1979	M	29	A	Sylling	Buskerud	Østlandet	Norway
+sylling_02uk	1979	F	30	A	Sylling	Buskerud	Østlandet	Norway
+sylling_03gm	1941	M	67	B	Sylling	Buskerud	Østlandet	Norway
+sylling_04gk	1951	F	57	B	Sylling	Buskerud	Østlandet	Norway
+time_01um	1990	M	18	A	Time	Rogaland	Vestlandet	Norway
+time_02uk	1990	F	18	A	Time	Rogaland	Vestlandet	Norway
+time_03gm	1930	M	78	B	Time	Rogaland	Vestlandet	Norway
+time_04gk	1935	F	73	B	Time	Rogaland	Vestlandet	Norway
+tromsoe_01um	1984	M	24	A	Tromsø	Troms	Nord-Norge	Norway
+tromsoe_02uk	1988	F	20	A	Tromsø	Troms	Nord-Norge	Norway
+tromsoe_03gm	1945	M	62	B	Tromsø	Troms	Nord-Norge	Norway
+tromsoe_04gk	1949	F	59	B	Tromsø	Troms	Nord-Norge	Norway
+trondheim_01um	1988	M	19	A	Trondheim	Sør-Trøndelag	Trøndelag	Norway
+trondheim_02uk	1990	F	18	A	Trondheim	Sør-Trøndelag	Trøndelag	Norway
+trondheim_03gm	1957	M	51	B	Trondheim	Sør-Trøndelag	Trøndelag	Norway
+trondheim_04gk	1952	F	56	B	Trondheim	Sør-Trøndelag	Trøndelag	Norway
+voss_01um	1990	M	17	A	Voss	Hordaland	Vestlandet	Norway
+voss_02uk	1990	F	18	A	Voss	Hordaland	Vestlandet	Norway
+voss_03gm	1950	M	58	B	Voss	Hordaland	Vestlandet	Norway
+voss_04gk	1948	F	60	B	Voss	Hordaland	Vestlandet	Norway
+aal_01um	1984	M	25	A	Ål	Buskerud	Østlandet	Norway
+aal_02uk	1980	F	29	A	Ål	Buskerud	Østlandet	Norway
+aal_03gm	1940	M	68	B	Ål	Buskerud	Østlandet	Norway
+aal_04gk	1932	F	77	B	Ål	Buskerud	Østlandet	Norway
+falster5	1927	F	81	B	Falster	NULL	NULL	Denmark
+sjaelland2	1929	F	79	B	Sjælland	NULL	NULL	Denmark
+sjaelland3	1945	M	63	B	Sjælland	NULL	NULL	Denmark
+sjaelland4	1919	F	89	B	Sjælland	NULL	NULL	Denmark
+sjaelland5	1927	M	81	B	Sjælland	NULL	NULL	Denmark
+sjaelland6	1920	M	88	B	Sjælland	NULL	NULL	Denmark
+bornholm1	1940	M	68	B	Bornholm	NULL	NULL	Denmark
+bornholm2	1947	F	61	B	Bornholm	NULL	NULL	Denmark
+bornholm3	1942	F	66	B	Bornholm	NULL	NULL	Denmark
+bornholm4	1955	F	53	B	Bornholm	NULL	NULL	Denmark
+bornholm6	1951	M	57	B	Bornholm	NULL	NULL	Denmark
+aeroe1	1922	F	86	B	Ærø	NULL	NULL	Denmark
+aeroe4	1925	F	83	B	Ærø	NULL	NULL	Denmark
+aeroe5	1936	F	72	B	Ærø	NULL	NULL	Denmark
+aeroe6	1940	M	68	B	Ærø	NULL	NULL	Denmark
+als2	NULL	M	0	B	Als	NULL	NULL	Denmark
+als3	NULL	M	0	B	Als	NULL	NULL	Denmark
+als4	NULL	M	0	B	Als	NULL	NULL	Denmark
+als5	NULL	F	0	B	Als	NULL	NULL	Denmark
+als6	NULL	F	0	B	Als	NULL	NULL	Denmark
+falster1	1942	F	66	B	Falster	NULL	NULL	Denmark
+falster4	1945	F	63	B	Falster	NULL	NULL	Denmark
+falster6	1941	M	67	B	Falster	NULL	NULL	Denmark
+falster7	1947	F	61	B	Falster	NULL	NULL	Denmark
+falster8	1943	M	65	B	Falster	NULL	NULL	Denmark
+fyn1	1934	F	74	B	Fyn	NULL	NULL	Denmark
+fyn2	1927	M	81	B	Fyn	NULL	NULL	Denmark
+fyn3	1927	F	81	B	Fyn	NULL	NULL	Denmark
+fyn4	1926	M	82	B	Fyn	NULL	NULL	Denmark
+fyn5	1928	M	80	B	Fyn	NULL	NULL	Denmark
+fyn6	1942	M	66	B	Fyn	NULL	NULL	Denmark
+harbooere_46	1940	M	67	B	Harboøre	NULL	NULL	Denmark
+harbooere_48	1945	F	62	B	Harboøre	NULL	NULL	Denmark
+harbooere_49	1941	M	66	B	Harboøre	NULL	NULL	Denmark
+harbooere_51	1971	M	36	A	Harboøre	NULL	NULL	Denmark
+harbooere_55	1998	M	9	A	Harboøre	NULL	NULL	Denmark
+harbooere_58	1954	M	53	B	Harboøre	NULL	NULL	Denmark
+nordjylland1	NULL	F	0	B	Nordjylland	NULL	NULL	Denmark
+nordjylland2	NULL	M	0	B	Nordjylland	NULL	NULL	Denmark
+nordjylland3	NULL	F	0	B	Nordjylland	NULL	NULL	Denmark
+nordjylland4	NULL	M	0	B	Nordjylland	NULL	NULL	Denmark
+nordjylland5	NULL	M	0	B	Nordjylland	NULL	NULL	Denmark
+oestjylland1	NULL	M	0	B	Østjylland	NULL	NULL	Denmark
+oestjylland3	NULL	M	0	B	Østjylland	NULL	NULL	Denmark
+oestjylland4	NULL	F	0	B	Østjylland	NULL	NULL	Denmark
+oestjylland5	NULL	F	0	B	Østjylland	NULL	NULL	Denmark
+oestjylland6	NULL	F	0	B	Østjylland	NULL	NULL	Denmark
+vestjylland2	NULL	M	0	B	Vestjylland	NULL	NULL	Denmark
+vestjylland3	NULL	M	0	B	Vestjylland	NULL	NULL	Denmark
+vestjylland4	NULL	F	0	B	Vestjylland	NULL	NULL	Denmark
+vestjylland5	1931	F	77	B	Vestjylland	NULL	NULL	Denmark
+vestjylland6	NULL	F	0	B	Vestjylland	NULL	NULL	Denmark
+aarhus1	NULL	M	0	B	Århus	NULL	NULL	Denmark
+aarhus3	1922	M	86	B	Århus	NULL	NULL	Denmark
+aarhus4	NULL	F	0	B	Århus	NULL	NULL	Denmark
+aarhus5	NULL	F	0	B	Århus	NULL	NULL	Denmark
+aarhus6	NULL	F	0	B	Århus	NULL	NULL	Denmark
+fuglafjoerdur_f12	1942	M	66	B	Fuglafjørður	Norðureysturoy	Eysturoy	Faroe
+fuglafjoerdur_f25	1960	M	48	B	Fuglafjørður	Norðureysturoy	Eysturoy	Faroe
+klaksvik_k32	1965	M	43	B	Klaksvík	Borðoy	Norðuroyggjar	Faroe
+sandur_s5	1987	M	21	A	Sandur	Sandoy	Sunnanfjørðs	Faroe
+sandur_s16	1991	M	17	A	Sandur	Sandoy	Sunnanfjørðs	Faroe
+torshavn_t13	1953	F	55	B	Tórshavn	Suðurstreymoy	Streymoy	Faroe
+torshavn_t16	1934	F	74	B	Tórshavn	Suðurstreymoy	Streymoy	Faroe
+tvoeroyri_tv14	1962	F	46	B	Tvøroyri	Suðuroy	Sunnanfjørðs	Faroe
+brunnsberg_55	1940	M	67	B	Brunnsberg	Dalarna	Svealand	Sweden
+spjald_07	1993	F	15	A	Spjald	NULL	NULL	Denmark
+spjald_08	1993	M	15	A	Spjald	NULL	NULL	Denmark
+sevel_74	1931	M	77	B	Sevel	NULL	NULL	Denmark
+sevel_76	1939	M	69	B	Sevel	NULL	NULL	Denmark
+sevel_71	1948	F	60	B	Sevel	NULL	NULL	Denmark
+sevel_77	1936	F	72	B	Sevel	NULL	NULL	Denmark
+spjald_15	1932	M	76	B	Spjald	NULL	NULL	Denmark
+spjald_21	1939	M	69	B	Spjald	NULL	NULL	Denmark
+thorsminde_64	1926	M	82	B	Thorsminde	NULL	NULL	Denmark
+thorsminde_67	1944	M	64	B	Thorsminde	NULL	NULL	Denmark
+thorsminde_65	1945	M	63	B	Thorsminde	NULL	NULL	Denmark
+thorsminde_66	1939	M	69	B	Thorsminde	NULL	NULL	Denmark
+faro_ym1	1970	M	29	A	Fårö	Gotland	Gotland	Sweden
+aeroe_kone	NULL	F	0	B	Ærø	NULL	NULL	Denmark
+ullensvang_ma_01	0	M	72	B	Ullensvang	Hordaland	Vestlandet	Norway
+uvdal_ma_01	NULL	M	0	B	Uvdal	Buskerud	Østlandet	Norway
+uvdal_ma_02	NULL	F	0	B	Uvdal	Buskerud	Østlandet	Norway
+uvdal_ma_03	NULL	M	0	B	Uvdal	Buskerud	Østlandet	Norway
+uvdal_ma_04	NULL	M	0	B	Uvdal	Buskerud	Østlandet	Norway
+uvdal_ma_05	1882	F	92	B	Uvdal	Buskerud	Østlandet	Norway
+vadsoe_ma_01	1900	M	74	B	Vadsø	Finmark	Nord-Norge	Norway
+valle_ma_01	0	M	0	B	Valle	Telemark	Østlandet	Norway
+vegaarshei_ma_01	NULL	M	0	B	Vegårshei	Aust-Agder	Sørlandet	Norway
+vardoe_ma_01	NULL	F	0	B	Vardø	Finnmark	Nord-Norge	Norway
+vaagaa_ma_01	NULL	F	0	B	Vågå	Oppland	Østlandet	Norway
+aukra_ma_01	1897	M	72	B	Aukra	Møre og Romsdal	Vestlandet	Norway
+boe_ma_05	1955	F	21	A	Bø	Telemark	Østlandet	Norway
+boe_ma_06	NULL	M	0	B	Bø	Telemark	Østlandet	Norway
+boe_ma_04	NULL	F	0	A	Bø	Telemark	Østlandet	Norway
+boe_ma_03	1918	F	58	B	Bø	Telemark	Østlandet	Norway
+boe_ma_01	1902	F	74	B	Bø	Telemark	Østlandet	Norway
+boe_ma_02	1925	M	51	B	Bø	Telemark	Østlandet	Norway
+brandbu_ma_02	1893	F	80	B	Brandbu	Oppland	Østlandet	Norway
+brunlanes_ma_01	1902	M	66	B	Brunlanes	Vestfold	Østlandet	Norway
+brunlanes_ma_02	1897	M	71	B	Brunlanes	Vestfold	Østlandet	Norway
+brunlanes_ma_03	NULL	F	0	B	Brunlanes	Vestfold	Østlandet	Norway
+drevsjoe_ma_01	1909	M	65	B	Drevsjø	Hedmark	Østlandet	Norway
+drevsjoe_ma_02	1905	M	69	B	Drevsjø	Hedmark	Østlandet	Norway
+eid_ma_01	1890	M	88	B	Eid	Sogn og Fjordane	Vestlandet	Norway
+eid_ma_02	1889	M	89	B	Eid	Sogn og Fjordane	Vestlandet	Norway
+eidfjord_ma_01	1912	M	67	B	Eidfjord	Hordaland	Vestlandet	Norway
+eiken_ma_01	1887	M	82	B	Eiken	Vest-Agder	Sørlandet	Norway
+flaa_ma_01	1912	F	67	B	Flå	Buskerud	Østlandet	Norway
+flaa_ma_02	1914	M	65	B	Flå	Buskerud	Østlandet	Norway
+fraena_ma_01	1908	M	71	B	Fræna	Møre og Romsdal	Vestlandet	Norway
+fraena_ma_02	1911	F	68	B	Fræna	Møre og Romsdal	Vestlandet	Norway
+gausdal_ma_01	NULL	M	0	B	Gausdal	Oppland	Østlandet	Norway
+gausdal_ma_02	NULL	M	0	B	Gausdal	Oppland	Østlandet	Norway
+gjesdal_ma_01	1895	F	73	B	Gjesdal	Rogaland	Vestlandet	Norway
+gjesdal_ma_02	1875	F	93	B	Gjesdal	Rogaland	Vestlandet	Norway
+hjartdal_ma_01	NULL	M	0	B	Hjartdal	Telemark	Østlandet	Norway
+hole_ma_01	0	M	72	B	Hole	Buskerud	Østlandet	Norway
+hole_ma_02	0	F	75	B	Hole	Buskerud	Østlandet	Norway
+holt_ma_01	1895	M	73	B	Holt	Aust-Agder	Sørlandet	Norway
+holt_ma_02	1906	M	62	B	Holt	Aust-Agder	Sørlandet	Norway
+holt_ma_03	1876	M	92	B	Holt	Aust-Agder	Sørlandet	Norway
+hyen_ma_01	1914	F	62	B	Hyen	Sogn og Fjordane	Vestlandet	Norway
+hyen_ma_02	1910	F	66	B	Hyen	Sogn og Fjordane	Vestlandet	Norway
+nannestad_ma_01	1903	M	67	B	Nannestad	Akershus	Østlandet	Norway
+nordreland_ma_01	NULL	F	0	B	Nordre Land	Oppland	Østlandet	Norway
+nordreland_ma_02	NULL	M	0	B	Nordre Land	Oppland	Østlandet	Norway
+nordreland_ma_03	1883	M	84	B	Nordre Land	Oppland	Østlandet	Norway
+nordreland_ma_04	NULL	M	0	B	Nordre Land	Oppland	Østlandet	Norway
+rendal_ma_01	NULL	M	0	B	Rendalen	Hedmark	Østlandet	Norway
+rendal_ma_02	NULL	F	0	B	Rendalen	Hedmark	Østlandet	Norway
+roeros_ma_01	1883	M	85	B	Røros	Sør-Trøndelag	Trøndelag	Norway
+roeros_ma_02	1947	M	21	A	Røros	Sør-Trøndelag	Trøndelag	Norway
+raade_ma_01	1884	F	74	B	Råde	Østfold	Østlandet	Norway
+seljord_ma_01	NULL	F	0	B	Seljord	Telemark	Østlandet	Norway
+skjaak_ma_01	NULL	M	0	B	Skjåk	Oppland	Østlandet	Norway
+soendeled_ma_01	1880	F	92	B	Søndeled	Aust-Agder	Sørlandet	Norway
+sunndal_ma_01	1880	M	94	B	Sunndal	Møre og Romsdal	Vestlandet	Norway
+tranoey_ma_01	NULL	M	0	B	Tranøy	Troms	Nord-Norge	Norway
+aaseral_ma_01	NULL	M	0	B	Åseral	Vest-Agder	Sørlandet	Norway
+aasnes_ma_02	1897	M	74	B	Åsnes	Hedmark	Østlandet	Norway
+kvamsoey_ma_01	NULL	F	0	B	Kvamsøy	Møre og Romsdal	Vestlandet	Norway
+kvamsoey_ma_02	1895	M	77	B	Kvamsøy	Møre og Romsdal	Vestlandet	Norway
+kvinnherad_ma_09	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_08	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_07	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_06	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_04	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_05	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_03	NULL	F	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_02	NULL	F	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+kvinnherad_ma_01	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+ljoerdalen_ma_01	1895	M	79	B	Ljørdalen	Hedmark	Østlandet	Norway
+ljoerdalen_ma_02	1899	M	75	B	Ljørdalen	Hedmark	Østlandet	Norway
+kvinnherad_ma_10	NULL	M	0	B	Kvinnherad	Hordaland	Vestlandet	Norway
+nordodal_ma_01	1894	M	70	B	Nord-Odal	Hedmark	Østlandet	Norway
+oevresirdal_ma_01	0	M	0	B	Øvre Sirdal	Vest-Agder	Sørlandet	Norway
+otteroey_ma_01	NULL	M	0	B	Otterøy	Nord-Trøndelag	Trøndelag	Norway
+storsandnes_ma_01	1907	M	60	B	Storsandnes	Nordland	Nord-Norge	Norway
+rauland_ma_01	NULL	M	0	B	Rauland	Telemark	Østlandet	Norway
+skien_ma_01	1911	M	0	B	Skien	Telemark	Østlandet	Norway
+soegne_ma_01	1900	F	80	B	Søgne	Vest-Agder	Sørlandet	Norway
+soerdalen_ma_01	1900	F	79	B	Sørdalen	Troms	Nord-Norge	Norway
+soerodal_ma_01	1896	M	76	B	Sør-Odal	Hedmark	Østlandet	Norway
+stordal_ma_01	1911	M	62	B	Stordal	Møre og Romsdal	Vestlandet	Norway
+toten_ma_01	NULL	M	0	B	Toten	Oppland	Østlandet	Norway
+toten_ma_02	NULL	M	0	B	Toten	Oppland	Østlandet	Norway
+toten_ma_03	NULL	M	0	B	Toten	Oppland	Østlandet	Norway
+aal_ma_01	1887	F	87	B	Ål	Buskerud	Østlandet	Norway
+reykjavik_07gm	NULL	M	0	B	Reykjavik	NULL	NULL	Iceland
+reykjavik_03gm	NULL	M	0	B	Reykjavik	NULL	NULL	Iceland
+heroeyN_01um	1992	M	17	A	Herøy N	Nordland	Nord-Norge	Norway
+heroeyN_02uk	1992	F	17	A	Herøy N	Nordland	Nord-Norge	Norway
+heroeyN_03gm	1944	M	65	B	Herøy N	Nordland	Nord-Norge	Norway
+heroeyN_04gk	1943	F	66	B	Herøy N	Nordland	Nord-Norge	Norway
+hof_01um	1991	M	18	A	Hof	Vestfold	Østlandet	Norway
+hof_02uk	1980	F	28	A	Hof	Vestfold	Østlandet	Norway
+hof_03gm	1947	M	62	B	Hof	Vestfold	Østlandet	Norway
+hof_04gk	1956	F	53	B	Hof	Vestfold	Østlandet	Norway
+lommedalen_03gm	1921	M	88	B	Lommedalen	Akershus	Østlandet	Norway
+lommedalen_04gk	1937	F	72	B	Lommedalen	Akershus	Østlandet	Norway
+hammerfest_06uk	NULL	F	0	A	Hammerfest	Finnmark	Nord-Norge	Norway
+enebakk_02uk	1996	F	14	A	Enebakk	Akershus	Østlandet	Norway
+enebakk_01um	1990	M	20	A	Enebakk	Akershus	Østlandet	Norway
+ballangen_01um	1994	M	15	A	Ballangen	Nordland	Nord-Norge	Norway
+ballangen_02uk	1994	F	15	A	Ballangen	Nordland	Nord-Norge	Norway
+ballangen_03gm	1941	M	68	B	Ballangen	Nordland	Nord-Norge	Norway
+ballangen_04gk	1949	F	60	B	Ballangen	Nordland	Nord-Norge	Norway
+enebakk_03gm	1951	M	59	B	Enebakk	Akershus	Østlandet	Norway
+enebakk_04gk	1955	F	55	B	Enebakk	Akershus	Østlandet	Norway
+hattfjelldal_01um	1981	M	28	A	Hattfjelldal	Nordland	Nord-Norge	Norway
+hattfjelldal_02uk	1982	F	27	A	Hattfjelldal	Nordland	Nord-Norge	Norway
+hattfjelldal_03gm	1951	M	59	B	Hattfjelldal	Nordland	Nord-Norge	Norway
+hattfjelldal_04gk	1940	F	69	B	Hattfjelldal	Nordland	Nord-Norge	Norway
+inderoey_01um	1987	M	22	A	Inderøy	Nord-Trøndelag	Trøndelag	Norway
+inderoey_02uk	1991	F	18	A	Inderøy	Nord-Trøndelag	Trøndelag	Norway
+inderoey_03gm	1939	M	70	B	Inderøy	Nord-Trøndelag	Trøndelag	Norway
+inderoey_04gk	1936	F	73	B	Inderøy	Nord-Trøndelag	Trøndelag	Norway
+mo_i_rana_01um	1990	M	19	A	Mo i Rana	Nordland	Nord-Norge	Norway
+mo_i_rana_02uk	1991	F	18	A	Mo i Rana	Nordland	Nord-Norge	Norway
+mo_i_rana_03gm	1951	M	58	B	Mo i Rana	Nordland	Nord-Norge	Norway
+mo_i_rana_04gk	1952	F	57	B	Mo i Rana	Nordland	Nord-Norge	Norway
+narvik_01um	1992	M	17	A	Narvik	Nordland	Nord-Norge	Norway
+narvik_02uk	1992	F	17	A	Narvik	Nordland	Nord-Norge	Norway
+narvik_03gm	1959	M	50	B	Narvik	Nordland	Nord-Norge	Norway
+signaldalen_ma_01	1894	M	85	B	Signaldalen	Troms	Nord-Norge	Norway
+oppdal_02	1940	F	70	B	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+oppdal_10	1992	F	18	A	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+oppdal_24	1991	F	18	A	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+oppdal_31	1935	M	75	B	Oppdal	Sør-Trøndelag	Trøndelag	Norway
+rauma_01um	1993	M	16	A	Rauma	Møre og Romsdal	Vestlandet	Norway
+rauma_02uk	1983	F	26	A	Rauma	Møre og Romsdal	Vestlandet	Norway
+rauma_03gm	1949	M	60	B	Rauma	Møre og Romsdal	Vestlandet	Norway
+rauma_04gk	1958	F	51	B	Rauma	Møre og Romsdal	Vestlandet	Norway
+stokkoeya_24	1938	F	70	B	Stokkøya	Sør-Trøndelag	Trøndelag	Norway
+stokkoeya_29	1930	M	79	B	Stokkøya	Sør-Trøndelag	Trøndelag	Norway
+stokkoeya_31	1995	F	14	A	Stokkøya	Sør-Trøndelag	Trøndelag	Norway
+stokkoeya_33	1995	M	14	A	Stokkøya	Sør-Trøndelag	Trøndelag	Norway
+surnadal_18	1940	M	70	B	Surnadal	Møre og Romsdal	Vestlandet	Norway
+surnadal_19	1939	M	71	B	Surnadal	Møre og Romsdal	Vestlandet	Norway
+surnadal_28	1991	F	18	A	Surnadal	Møre og Romsdal	Vestlandet	Norway
+surnadal_29	1991	F	18	A	Surnadal	Møre og Romsdal	Vestlandet	Norway
+vestre_slidre_03gm	1933	M	77	B	Vestre Slidre	Oppland	Østlandet	Norway
+vestre_slidre_04gk	1924	F	86	B	Vestre Slidre	Oppland	Østlandet	Norway
+volda_01um	1984	M	25	A	Volda	Møre og Romsdal	Vestlandet	Norway
+volda_02uk	1991	F	18	A	Volda	Møre og Romsdal	Vestlandet	Norway
+volda_03gm	1952	M	57	B	Volda	Møre og Romsdal	Vestlandet	Norway
+volda_04gk	1943	F	66	B	Volda	Møre og Romsdal	Vestlandet	Norway
+bud_01um	1982	M	28	A	Bud	Møre og Romsdal	Vestlandet	Norway
+bud_02uk	1987	F	23	A	Bud	Møre og Romsdal	Vestlandet	Norway
+bud_03gm	1932	M	77	B	Bud	Møre og Romsdal	Vestlandet	Norway
+bud_04gk	1938	F	72	B	Bud	Møre og Romsdal	Vestlandet	Norway
+heroeyMR_01um	1993	M	17	A	Herøy MR	Møre og Romsdal	Vestlandet	Norway
+heroeyMR_02uk	1993	F	17	A	Herøy MR	Møre og Romsdal	Vestlandet	Norway
+heroeyMR_03gm	1945	M	65	B	Herøy MR	Møre og Romsdal	Vestlandet	Norway
+heroeyMR_04gk	1952	F	58	B	Herøy MR	Møre og Romsdal	Vestlandet	Norway
+kautokeino_01um	1994	M	17	A	Kautokeino	Finnmark	Nord-Norge	Norway
+kautokeino_02uk	1981	F	30	A	Kautokeino	Finnmark	Nord-Norge	Norway
+kautokeino_03gm	1952	M	59	B	Kautokeino	Finnmark	Nord-Norge	Norway
+kautokeino_04gk	1959	F	52	B	Kautokeino	Finnmark	Nord-Norge	Norway
+kvaenangen_01um	1988	M	23	A	Kvænangen	Troms	Nord-Norge	Norway
+kvaenangen_02uk	1988	F	23	A	Kvænangen	Troms	Nord-Norge	Norway
+kvaenangen_03gm	1949	M	62	B	Kvænangen	Troms	Nord-Norge	Norway
+kvaenangen_04gk	1952	F	59	B	Kvænangen	Troms	Nord-Norge	Norway
+lierne_01um	1995	M	15	A	Lierne	Nord-Trøndelag	Trøndelag	Norway
+lierne_02uk	1995	F	15	A	Lierne	Nord-Trøndelag	Trøndelag	Norway
+lierne_03gm	1942	M	68	B	Lierne	Nord-Trøndelag	Trøndelag	Norway
+lierne_04gk	1956	F	54	B	Lierne	Nord-Trøndelag	Trøndelag	Norway
+lommedalen_01um	1988	M	22	A	Lommedalen	Akershus	Østlandet	Norway
+lommedalen_02uk	1981	F	29	A	Lommedalen	Akershus	Østlandet	Norway
+nes_01um	1983	M	27	A	Nes	Akershus	Østlandet	Norway
+nes_02uk	1992	F	18	A	Nes	Akershus	Østlandet	Norway
+nes_03gm	1946	M	64	B	Nes	Akershus	Østlandet	Norway
+nes_04gk	1954	F	55	B	Nes	Akershus	Østlandet	Norway
+rena_01um	1995	M	15	A	Rena	Hedmark	Østlandet	Norway
+rena_02uk	1995	F	15	A	Rena	Hedmark	Østlandet	Norway
+rena_03gm	1944	M	66	B	Rena	Hedmark	Østlandet	Norway
+rena_04gk	1941	F	69	B	Rena	Hedmark	Østlandet	Norway
+roeros_01um	1987	M	23	A	Røros	Sør-Trøndelag	Trøndelag	Norway
+roeros_02uk	1990	F	20	A	Røros	Sør-Trøndelag	Trøndelag	Norway
+engerdal_ma_02	NULL	F	0	B	Engerdal	Hedmark	Østlandet	Norway
+roeros_04gk	1940	F	70	B	Røros	Sør-Trøndelag	Trøndelag	Norway
+roeros_03gm	1934	M	76	B	Røros	Sør-Trøndelag	Trøndelag	Norway
+bjugn_15	1945	M	64	B	Bjugn	Sør-Trøndelag	Trøndelag	Norway
+bjugn_16	1990	F	19	A	Bjugn	Sør-Trøndelag	Trøndelag	Norway
+bjugn_19	1952	F	56	B	Bjugn	Sør-Trøndelag	Trøndelag	Norway
+bjugn_23	1988	M	21	A	Bjugn	Sør-Trøndelag	Trøndelag	Norway
+skaugdalen_36	1989	M	20	A	Skaugdalen	Sør-Trøndelag	Trøndelag	Norway
+skaugdalen_37	1942	F	67	B	Skaugdalen	Sør-Trøndelag	Trøndelag	Norway
+skaugdalen_39	1944	M	65	B	Skaugdalen	Sør-Trøndelag	Trøndelag	Norway
+skaugdalen_43	1986	F	23	A	Skaugdalen	Sør-Trøndelag	Trøndelag	Norway
+soemna_01um	1989	M	20	A	Sømna	Nordland	Nord-Norge	Norway
+soemna_02uk	1992	F	17	A	Sømna	Nordland	Nord-Norge	Norway
+soemna_03gm	1939	M	70	B	Sømna	Nordland	Nord-Norge	Norway
+soemna_04gk	1940	F	69	B	Sømna	Nordland	Nord-Norge	Norway
+stranda_01um	1985	M	25	A	Stranda	Møre og Romsdal	Vestlandet	Norway
+stranda_02uk	1993	F	17	A	Stranda	Møre og Romsdal	Vestlandet	Norway
+stranda_03gm	1947	M	63	B	Stranda	Møre og Romsdal	Vestlandet	Norway
+stranda_04gk	1945	F	65	B	Stranda	Møre og Romsdal	Vestlandet	Norway
+gauldal_03gm	1950	M	60	B	Gauldal	Sør-Trøndelag	Trøndelag	Norway
+gauldal_04gk	1945	F	65	B	Gauldal	Sør-Trøndelag	Trøndelag	Norway
+kirkenes_01um	1992	M	18	A	Kirkenes	Finnmark	Nord-Norge	Norway
+kirkenes_02uk	1982	F	27	A	Kirkenes	Finnmark	Nord-Norge	Norway
+kirkenes_03gm	1948	M	61	B	Kirkenes	Finnmark	Nord-Norge	Norway
+kirkenes_04gk	1950	F	59	B	Kirkenes	Finnmark	Nord-Norge	Norway
+vardoe_01um	1993	M	16	A	Vardø	Finnmark	Nord-Norge	Norway
+vardoe_02uk	1987	F	22	A	Vardø	Finnmark	Nord-Norge	Norway
+vardoe_03gm	1939	M	71	B	Vardø	Finnmark	Nord-Norge	Norway
+vardoe_04gk	1962	F	47	B	Vardø	Finnmark	Nord-Norge	Norway
+engerdal_ma_01	NULL	M	0	B	Engerdal	Hedmark	Østlandet	Norway
+drangedal_ma_01	NULL	M	0	B	Drangedal	Telemark	Østlandet	Norway
+etne_ma_01	NULL	F	0	B	Etne	Hordaland	Vestlandet	Norway
+etne_ma_02	NULL	M	0	B	Etne	Hordaland	Vestlandet	Norway
+etne_ma_03	NULL	M	0	B	Etne	Hordaland	Vestlandet	Norway
+finnoey_ma_01	1901	M	88	B	Finnøy	Møre og Romsdal	Vestlandet	Norway
+lesja_ma_01	1889	F	84	B	Lesja	Oppland	Østlandet	Norway
+lommedalen_ma_01	1897	F	65	B	Lommedalen	Akershus	Østlandet	Norway
+lommedalen_ma_02	1888	F	74	B	Lommedalen	Akershus	Østlandet	Norway
+lommedalen_ma_03	1885	M	77	B	Lommedalen	Akershus	Østlandet	Norway
+nordodal_ma_02	NULL	F	0	NULL	Nord-Odal	Hedmark	Østlandet	Norway
+boe_ma_07	NULL	M	0	NULL	NULL	NULL	NULL	Norway
+ogna_ma_01	1881	F	86	B	Ogna	Rogaland	Vestlandet	Norway
+rana_ma_01	NULL	M	0	B	Rana	Nordland	Nord-Norge	Norway
+tolga_ma_01	NULL	M	0	B	Tolga	Hedmark	Østlandet	Norway
+tolga_ma_02	NULL	M	0	B	Tolga	Hedmark	Østlandet	Norway
+oeyer_ma_01	NULL	M	0	B	Øyer	Oppland	Østlandet	Norway
+tana_01um	1988	M	21	A	Tana	Finnmark	Nord-Norge	Norway
+tana_02uk	1986	F	24	A	Tana	Finnmark	Nord-Norge	Norway
+tana_03gm	1949	M	61	B	Tana	Finnmark	Nord-Norge	Norway
+tana_04gk	1950	F	60	B	Tana	Finnmark	Nord-Norge	Norway
+lakselv_01um	1986	M	24	A	Lakselv	Finnmark	Nord-Norge	Norway
+lakselv_02uk	1994	F	16	A	Lakselv	Finnmark	Nord-Norge	Norway
+lakselv_03gm	1939	M	71	B	Lakselv	Finnmark	Nord-Norge	Norway
+lakselv_04gk	1960	F	50	B	Lakselv	Finnmark	Nord-Norge	Norway
+kbh2	1952	M	56	B	København	NULL	NULL	Denmark
+kbh1	1932	F	76	B	København	NULL	NULL	Denmark
+kbh3	1918	F	90	B	København	NULL	NULL	Denmark
+kbh4	1945	F	63	B	København	NULL	NULL	Denmark
+kbh5	1945	M	63	B	København	NULL	NULL	Denmark
+kbh6	1914	F	94	B	København	NULL	NULL	Denmark
+kbh7	1944	F	64	B	København	NULL	NULL	Denmark
+north-iceland_01um	NULL	M	0	A	North Iceland	NULL	NULL	Iceland
+north-iceland_05um	NULL	M	0	A	North Iceland	NULL	NULL	Iceland
+reykjavik_02uk	NULL	F	0	A	Reykjavik	NULL	NULL	Iceland
+reykjavik_06uk	NULL	F	0	A	Reykjavik	NULL	NULL	Iceland
+aamot_ma_01	1898	M	86	B	Åmot	Hedmark	Østlandet	Norway
+aamot_ma_02	1894	F	90	B	Åmot	Hedmark	Østlandet	Norway
+nesbyen_ma_01	1916	M	63	B	Nesbyen	Buskerud	Østlandet	Norway
+skjaak_ma_02	1895	M	78	B	Skjåk	Oppland	Østlandet	Norway
+maalselv_ma_03	NULL	M	0	B	Målselv	Troms	Nord-Norge	Norway
+maalselv_ma_04	NULL	M	0	B	Målselv	Troms	Nord-Norge	Norway
+maalselv_ma_05	NULL	F	0	B	Målselv	Troms	Nord-Norge	Norway
+dalsbygda_01um	1992	M	20	A	Dalsbygda	Hedmark	Østlandet	Norway
+dalsbygda_02uk	1993	F	19	A	Dalsbygda	Hedmark	Østlandet	Norway
+dalsbygda_03gm	1935	M	76	B	Dalsbygda	Hedmark	Østlandet	Norway
+dalsbygda_04gk	1939	F	72	B	Dalsbygda	Hedmark	Østlandet	Norway
+east-iceland_03gm	1956	M	57	B	Egilsstadir	East Iceland	East Iceland	Iceland
+east-iceland_04gk	1959	F	54	B	Egilsstadir	East Iceland	East Iceland	Iceland
+east-iceland_01um	1988	M	25	A	Egilsstadir	East Iceland	East Iceland	Iceland
+east-iceland_02uk	1988	F	25	A	Egilsstadir	East Iceland	East Iceland	Iceland
+reykjanes-peninsula_04gk	1956	F	57	A	Njardvik	Reykjanes Peninsula	Reykjanes Peninsula	Iceland
+reykjanes-peninsula_02uk	1993	F	20	B	Njardvik	Reykjanes Peninsula	Reykjanes Peninsula	Iceland
+reykjanes-peninsula_03gm	1958	M	55	B	Njardvik	Reykjanes Peninsula	Reykjanes Peninsula	Iceland
+reykjanes-peninsula_01um	1993	M	20	A	Njardvik	Reykjanes Peninsula	Reykjanes Peninsula	Iceland
+reykjavik_11um	1988	M	25	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_12uk	1988	F	25	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_13gm	1963	M	50	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_14gk	1963	F	50	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_15uk	1990	F	23	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+south-iceland_02uk	1984	F	29	A	Selfoss	South Iceland	South Iceland	Iceland
+reykjavik_17um	1991	M	22	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_18um	1991	M	22	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_16uk	1989	F	24	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+south-iceland_01um	1975	M	38	A	Selfoss	South Iceland	South Iceland	Iceland
+south-iceland_04gk	1960	F	53	B	Hvolsvollur	South Iceland	South Iceland	Iceland
+south-iceland_03gm	1958	M	55	B	Hvolsvollur	South Iceland	South Iceland	Iceland
+west-iceland_04gk	1953	F	60	B	Stykkisholmur	West Iceland	West Iceland	Iceland
+west-iceland_03gm	1952	M	61	B	Stykkisholmur	West Iceland	West Iceland	Iceland
+toh_om_1	1940	M	60	B	Torhamn	Blekinge	Götaland	Sweden
+toh_om_3	1936	M	64	B	Torhamn	Blekinge	Götaland	Sweden
+toh_ym_3	1971	M	27	A	Torhamn	Blekinge	Götaland	Sweden
+ars_OM_2	1920	M	78	B	Årstad-Heberg	Halland	Götaland	Sweden
+ars_OM_3	1934	M	64	B	Årstad-Heberg	Halland	Götaland	Sweden
+ars_OW_1	1944	F	54	B	Årstad-Heberg	Halland	Götaland	Sweden
+ars_OW_2	1929	F	69	B	Årstad-Heberg	Halland	Götaland	Sweden
+baraOM2	1923	M	75	B	Bara	Skåne	Götaland	Sweden
+baraOW3	1924	F	74	B	Bara	Skåne	Götaland	Sweden
+brobyOM1	NULL	M	NULL	B	Broby	Skåne	Götaland	Sweden
+brobyOM2	1916	M	83	B	Broby	Skåne	Götaland	Sweden
+brobyOM3	1931	M	68	B	Broby	Skåne	Götaland	Sweden
+brobyOW2	1920	F	79	B	Broby	Skåne	Götaland	Sweden
+lod_OM_2	1925	M	74	B	Löderup	Skåne	Götaland	Sweden
+lod_OW_3	1932	F	67	B	Löderup	Skåne	Götaland	Sweden
+LoderupOM1	1931	M	68	B	Löderup	Skåne	Götaland	Sweden
+sorseleOW4	1929	F	69	B	Sorsele	Västerbotten	Lappland	Sweden
+bykle_ma_01	0	M	0	B	Bykle	Telemark	Østlandet	Norway
+bykle_ma_02	0	M	0	B	Bykle	Telemark	Østlandet	Norway
+bykle_ma_03	0	M	0	B	Bykle	Telemark	Østlandet	Norway
+fredrikstad_ma_01	1901	M	76	B	Fredrikstad	Østfold	Østlandet	Norway
+gjesdal_ma_03	1876	M	92	B	Gjesdal	Rogaland	Vestlandet	Norway
+gjesdal_ma_04	1883	M	85	B	Gjesdal	Rogaland	Vestlandet	Norway
+narvik_04gk	1944	F	65	B	Narvik	Nordland	Nord-Norge	Norway
+nysatraOM1	1920	M	79	B	Nysätra	Västerbotten	Norrland	Sweden
+sar_om2	1933	M	66	B	Särna	Dalarna	Svealand	Sweden
+sar_ow1	1933	F	66	B	Särna	Dalarna	Svealand	Sweden
+sar_ow4	1935	F	64	B	Särna	Dalarna	Svealand	Sweden
+sar_ym3	1972	M	27	A	Särna	Dalarna	Svealand	Sweden
+sarnaOM1	1944	M	55	B	Särna	Dalarna	Svealand	Sweden
+soegne_ma_02	1887	F	93	B	Søgne	Vest Agder	Sørlandet	Norway
+thorsminde_61	1947	M	61	B	Thorsminde	NULL	NULL	Denmark
+signaldalen_ma_02	1901	M	78	B	Signaldalen	Troms	Nord-Norge	Norway
+kopavogur_01gk	NULL	F	0	B	Kopavogur	Reykjavik	Reykjavik	Iceland
+kopavogur_02gm	NULL	M	0	B	Kopavogur	Reykjavik	Reykjavik	Iceland
+north-iceland_02gk	NULL	F	0	B	North Iceland	North Iceland	North Iceland	Iceland
+north-iceland_03gm	NULL	M	0	B	North Iceland	North Iceland	North Iceland	Iceland
+reykjavik_21gk	NULL	F	0	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_22gm	NULL	M	0	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_23um	NULL	M	0	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_24um	NULL	M	0	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_25uk	NULL	F	0	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_26um	NULL	M	0	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_27gk	NULL	F	0	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_28gm	NULL	M	0	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_29gk	NULL	F	0	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_30gm	NULL	M	0	B	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_31uk	NULL	F	0	A	Reykjavik	Reykjavik	Reykjavik	Iceland
+reykjavik_32um	NULL	M	0	A	Reykjavik	Reykjavik	Reykjavik	Iceland

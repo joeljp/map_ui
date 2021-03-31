@@ -1,0 +1,323 @@
+let polygons = {}
+let polyj = 0 // keys for the sets hash
+let mz = []; // The actual markers
+let allMarkers = [];
+let locs = [];
+function initJSON(){
+  // READ META. LOOKS LIKE THIS: [["tid","birth","sex",…],["ankarsrum_om1",1934,"M",…], … ]
+  $.getJSON("dat/meta.json", function(json){
+    DataSets.initSuperSet(json);
+    locs = Object.keys(DataSets.SuperSet["place"]);
+    initMenu();
+  });
+  // READ COORDINATES AND INIT MAP
+  $.getJSON("dat/ndc.json", function(json) {
+    //	coords = json;
+    //let locs = Object.keys(DataSets.SuperSet["place"]);
+    //locs = ["Brekkom", "Drevsjø", "Evje", "Gauldal", "Gausdal"];
+    initMap(json, locs);
+  });
+}
+let shown = false;
+function showTIDS(tids){
+    console.log(tids);
+    return true;
+    if(!shown){
+	$("#inner-grid").append($("<div id='tids'>"+Array.from(tids).length+" informants selected</div>"));
+	shown = true;
+    }
+    else{$("#tids").html(Array.from(tids).length + " informants selected");}
+}
+
+function update(){
+    let locations = new Set;
+    let tids = DataSets.select_tids();
+    tids.forEach(function(e){
+	locations.add(DataSets.tid2loc[e]);
+    });
+    $("#n_tids").html(tids.size);
+    $("#n_locs").html(locations.size + " locations");
+    updateMarkers(locations);
+}
+
+function discrete(id, v){
+    $.each(v, function(i,e){DataSets.add_set(id, e);});
+
+    let tit = $("<div class='cats' id='"+id+"'>"+id+"</div>");
+    let ind = $("<div id='indicator"+id+"'>"+v+"</div>");
+    let sel = $("<div id='selector"+id+"'/>");
+    
+    $.each(v, function(i,e){
+	let set = $("<div>",{class: "cell", text: e, id: id+"_"+e}).click(function(){
+	    if($(this).data("selected")){
+		$(this).css('background-color', '#fff');
+		$(this).data("selected", false);
+		DataSets.rem_set(id,e); // remove this set from the hash of selected sets
+	    }
+	    else{
+		$(this).css('background-color', '#8f8');
+		$(this).data("selected", true);
+		DataSets.add_set(id,e); // add this set to the hash of selected sets
+	    }
+/*	    
+	    let update = DataSets.select_tids();
+	    let locations = new Set;
+	    if(update.has(false)){
+		update.forEach(function(e){
+		    if(e){$("#"+e).css("background","red");}
+		});
+		$("#n_tids").html("0");
+	    }
+	    else{
+		$(".cats").css("background","white");
+		$("#n_tids").html(update.size);
+		update.forEach(function(e){
+		    locations.add(DataSets.tid2loc[e])
+		});
+	    }
+	    updateMarkers(locations);
+*/
+	    //	    for (let item of update) console.log(item);
+	    update();
+	}).data("selected", true).css('background-color', '#8f8');
+	sel.append(set);
+    });
+    $("#inner-grid").append(tit,ind,sel);
+}
+
+function interval(id,min,max){
+    DataSets.updateInterval(id,min,max);
+    let tit = $("<div class='cats' id='"+id+"'>"+id+"</div>");
+    let ind = $("<div><span id='slider-indicatorL"+id+"'>"+min+"</span> - <span id='slider-indicatorR"+id+"'>"+max+"</span></div>");
+    let sld = $("<div><div id='slider-range"+id+"' /></div>");
+    
+    $("#inner-grid").append(tit,ind,sld);
+    mmin = min;
+    mmax = max;
+    mmin--;
+    mmax++;
+    $("#slider-range"+id).slider({
+	range: true,
+	min: mmin,
+	max: mmax,
+	step: 1,
+	values: [min, max],
+	slide: function (e, ui) {
+	    let from = ui.values[0];
+	    let to   = ui.values[1];
+	    $('#slider-indicatorL'+id).html(from);
+	    $('#slider-indicatorR'+id).html(to);
+	    DataSets.updateInterval(id,from,to);
+	    update();
+	    /*
+	    let update = DataSets.select_tids();
+	    let locations = new Set;
+	    update.forEach(function(e){locations.add(DataSets.tid2loc[e])});
+	    updateMarkers(locations);
+	    $("#n_tids").html(update.size);
+	    */
+	}
+    });
+}
+
+function initMenu(){
+  $("#inner-grid").append($("<div>Informants</div>"), $("<div id='n_tids' />"),$("<div id='n_locs' />"));
+  $.each(DataSets.SuperSet, function(k,v){
+    //	console.log(k,v);
+    if(["place","area","region","country"].includes(k)){return true}
+    if(k == "age" || k == "birth"){
+      let min = 99999;
+      let max = 0;
+      $.each(v, function(i,e){
+	if(i > max){max=i}
+	if(i < min){min=i}
+      });
+      interval(k,min,max);
+    }
+    else{
+      vals = [];
+      $.each(v, function(i,e){
+	vals.push(i);
+      });
+      discrete(k,vals);
+    }
+
+    
+  });
+}
+function initMap(coords, places) {
+  map = new google.maps.Map(document.getElementById("map"), {
+    center: { lat: -34.397, lng: 150.644 },
+    zoom: 5,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  });
+  middle = coords.Vilhelmina;
+  lat = middle[0];
+  lng = middle[1];
+  map.setCenter({lat: lat, lng: lng});
+  const drawingManager = new google.maps.drawing.DrawingManager({
+    drawingMode: google.maps.drawing.OverlayType.MARKER,
+    drawingControl: true,
+    drawingControlOptions: {
+      position: google.maps.ControlPosition.TOP_CENTER,
+      drawingModes: [
+	google.maps.drawing.OverlayType.POLYGON,
+      ],
+    },
+    polygonOptions: {
+      geodesic: false,
+      fillColor: "#ffbc00",
+      fillOpacity: 0.3,
+      strokeWeight: 1,
+      clickable: true,
+      editable: true,
+      zIndex: 1
+    },
+
+  });
+  drawingManager.setMap(map);
+  google.maps.event.addListener(drawingManager, 'polygoncomplete', function (polygon) {
+    polygons[polyj] = polygon;
+    polygon.getPaths().forEach(function(path, index){
+      google.maps.event.addListener(path, 'insert_at',
+                                    // this is when you grab a midway point and drag it.
+                                    // It creates transforms the midway to an end point, and creates to subsequent midways
+                                    function(){
+		                      updateLocations(allMarkers, polygons, "insert");
+	                            });
+      
+      google.maps.event.addListener(path, 'remove_at',
+                                    // removes last change when clicking the redo arrow
+				    function(){
+				      updateLocations(allMarkers, polygons, "remove at");
+				    });
+
+      google.maps.event.addListener(path, 'set_at',
+				    function(){
+				      updateLocations(allMarkers, polygons, "set at");
+				    });
+
+      google.maps.event.addListener(polygon, 'click',
+				    function(){
+				      delete polygons[polygon.id];
+				      polygon.setMap(null);
+				      updateLocations(allMarkers, polygons, "click");
+				    });
+
+
+      polygon.id = polyj;
+
+    });
+    updateLocations(allMarkers, polygons, "not sure");
+    polygons[polyj++] = polygon;
+  });
+  plot(coords, places);
+}
+
+function updateLocations(markers,polygons, msg){
+    DataSets.remove_active_set("place");
+    $.each(polygons, function(i,polygon){
+	$.each(markers, function(j,marker){
+	    if(google.maps.geometry.poly.containsLocation(marker, polygon)){
+		DataSets.add_set("place", marker.title);
+	    }
+	});
+    });
+    update();
+    /*
+    update = DataSets.select_tids();
+    locations = new Set;
+    update.forEach(function(e){
+	locations.add(DataSets.tid2loc[e])
+    });
+    updateMarkers(locations)
+    */
+}
+
+function updateMarkers(locs){
+    /*
+  let green = {
+    url: "img/green.svg",
+    size: new google.maps.Size(7, 7),
+    origin: new google.maps.Point(0, 0),
+    anchor: new google.maps.Point(1, 1),
+    scaledSize: new google.maps.Size(7, 7)
+  };
+  let red = {
+    url: "img/dot.svg",
+    size: new google.maps.Size(7, 7),
+    origin: new google.maps.Point(0, 0),
+    anchor: new google.maps.Point(1, 1),
+    scaledSize: new google.maps.Size(7, 7)
+  };
+    */
+  $.each(mz, function(i,m){
+    if(!locs.has(m.id)){
+      m.setMap(null);
+    }
+    else{
+      m.setMap(map);
+    }
+  });
+  /*
+    $.each(allMarkers, function(i,m){
+    if(!locs.has(m.title)){
+    //allMarkers.splice(i, 1);
+    m.active = false;
+    }
+    else{
+    m.active = true;
+    }
+    });
+  */
+  showTIDS(DataSets.select_tids())
+}
+
+function plot(data,locs){
+      var tiny = {
+      url: "img/dot.svg",
+      size: new google.maps.Size(3, 3),
+      origin: new google.maps.Point(0, 0),
+      anchor: new google.maps.Point(-1, -1),
+      scaledSize: new google.maps.Size(3, 3)
+      };
+    var dot = {
+	url: "img/green.svg",
+	size: new google.maps.Size(7, 7),
+	origin: new google.maps.Point(0, 0),
+	anchor: new google.maps.Point(1, 1),
+	scaledSize: new google.maps.Size(7, 7)
+    };
+    Object.values(locs).forEach(function(key){
+	if(key != "focus"){
+	      var tiny_marker = new google.maps.Marker({
+	      position: { lat: data[key][0], lng: data[key][1] },
+	      map: map,
+	      title: key,
+	      icon: tiny,
+	      id: key,
+	      zIndex: 0,
+	      });
+	    var marker = new google.maps.Marker({
+		position: { lat: data[key][0], lng: data[key][1] },
+		map: map,
+		title: key,
+		icon: dot,
+		id: key,
+	    });
+	    google.maps.event.addListener(marker, "click", function() { console.log(key); });
+	    mz.push(marker);
+	    allMarkers.push({title: key,
+			     active: true,
+			     lat:
+			     function lat(){
+				 return data[key][0]
+			     },
+			     lng:
+			     function lng(){
+				 return data[key][1]
+			     }
+			    });
+	}
+    })
+}

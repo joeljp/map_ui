@@ -1,0 +1,622 @@
+fet_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+fet_uio_0201 ---> Fødselsår
+fet_uio_0202 ---> Aldersgruppe, Alder, Fødselsår
+fet_uio_0203 ---> Fødselsår
+fet_uio_0204 ---> Fødselsår
+fet_uio_0205 ---> Fødselsår
+fet_uio_0301 ---> Fødselsår
+fet_uio_0401 ---> Aldersgruppe, Alder, Fødselsår
+fet_uio_0402 ---> Aldersgruppe, Alder, Fødselsår
+fet_uio_0501 ---> Aldersgruppe, Alder, Fødselsår
+fet_uio_0502 ---> Aldersgruppe, Alder, Fødselsår
+soendeled_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+valle_ma_01 ---> Alder
+valle_uio_0501 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+vegaarshei_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+aamli_uib_0502 ---> Alder, Fødselsår
+birkenes_uib_1001 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1002 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1003 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1004 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1005 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1006 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1007 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1008 ---> Aldersgruppe, Alder, Fødselsår, 1960
+birkenes_uib_1009 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1010 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1011 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1012 ---> Aldersgruppe, Alder, Fødselsår
+birkenes_uib_1013 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0201 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0301 ---> Aldersgruppe, Alder
+tromoey_uib_0401 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0402 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0501 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0601 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0701 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0801 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0901 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_0902 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_1001 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_1201 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_1202 ---> Aldersgruppe, Alder, Fødselsår
+tromoey_uib_1203 ---> Aldersgruppe, Alder, Fødselsår
+flaa_uio_0302 ---> Aldersgruppe, Alder, Fødselsår
+hemsedal_uio_0301 ---> Opptaksår, Aldersgruppe, Alder
+hol_uio_0101 ---> Opptaksår, Fødselsår
+aal_uio_0201 ---> Alder, Fødselsår
+drammen_uib_0104 ---> Aldersgruppe, Alder, Fødselsår
+drammen_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+gol_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+hemsedal_uio_0402 ---> Aldersgruppe, Alder, Fødselsår
+alta_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+alta_uit_0102 ---> Aldersgruppe, Alder, Fødselsår
+alta_uit_0203 ---> Aldersgruppe, Alder, Fødselsår
+alta_uit_0301 ---> Aldersgruppe, Alder, Fødselsår
+alta_uit_0603 ---> Aldersgruppe, Alder, Fødselsår
+alta_uit_0604 ---> Aldersgruppe, Alder, Fødselsår
+alta_uit_1102 ---> Aldersgruppe, Alder, Fødselsår
+hammerfest_uit_0403 ---> Aldersgruppe, Alder, Fødselsår
+hammerfest_uit_0503 ---> Aldersgruppe, Alder, Fødselsår
+hasvik_uit_0104 ---> Aldersgruppe, Alder, Fødselsår
+hasvik_uit_0402 ---> Aldersgruppe, Alder, Fødselsår
+vadsoe_uit_0201 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+vadsoe_uit_0202 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+vadsoe_uit_0203 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0204 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+vadsoe_uit_0301 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0302 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1301 ---> Opptaksår, Fødselsår
+vadsoe_uit_1302 ---> Opptaksår, Fødselsår
+vadsoe_uit_1303 ---> Opptaksår, Fødselsår
+vardoe_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+vardoe_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+vardoe_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+baatsfjord_uio_0201 ---> Aldersgruppe, Alder
+baatsfjord_uit_0501 ---> Opptaksår, Aldersgruppe, Alder
+baatsfjord_uit_0502 ---> Opptaksår, Aldersgruppe, Alder
+baatsfjord_uit_0503 ---> Opptaksår, Aldersgruppe, Alder
+baatsfjord_uit_0504 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår, 1960
+baatsfjord_uit_0601 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+baatsfjord_uit_0602 ---> Opptaksår, Aldersgruppe, Alder
+baatsfjord_uit_0603 ---> Opptaksår, Aldersgruppe, Alder
+baatsfjord_uit_0801 ---> Opptaksår, Aldersgruppe, Alder
+berlevaag_uit_0101 ---> Opptaksår, Aldersgruppe, Alder
+berlevaag_uit_0102 ---> Opptaksår, Aldersgruppe, Alder
+berlevaag_uit_0103 ---> Opptaksår, Aldersgruppe, Alder
+berlevaag_uit_0104 ---> Opptaksår, Aldersgruppe, Alder
+berlevaag_uit_0105 ---> Opptaksår, Aldersgruppe, Alder
+gamvik_uit_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+gamvik_uit_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+gamvik_uit_0103 ---> Opptaksår, Aldersgruppe, Alder
+gamvik_uit_0104 ---> Opptaksår, Aldersgruppe, Alder
+gamvik_uit_0105 ---> Opptaksår, Aldersgruppe, Alder
+gamvik_uit_0301 ---> Opptaksår, Aldersgruppe, Alder
+gamvik_uit_0302 ---> Opptaksår, Aldersgruppe, Alder
+hasvik_uit_0203 ---> Aldersgruppe, Alder, Fødselsår
+hasvik_uit_0302 ---> Aldersgruppe, Alder, Fødselsår
+hasvik_uit_0601 ---> Aldersgruppe, Alder, Fødselsår
+hasvik_uit_0903 ---> Aldersgruppe, Alder, Fødselsår
+lebesby_uit_0201 ---> Opptaksår, Aldersgruppe, Alder
+lebesby_uit_0202 ---> Opptaksår, Aldersgruppe, Alder
+loppa_uit_0402 ---> Aldersgruppe, Alder, Fødselsår, 1960
+loppa_uit_0601 ---> Aldersgruppe, Alder
+maasoey_uit_0101 ---> Opptaksår, Aldersgruppe, Alder
+maasoey_uit_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+soeroeysund_uit_0301 ---> Opptaksår, Aldersgruppe, Alder
+soeroeysund_uit_0302 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uio_0602 ---> Aldersgruppe, Alder, Fødselsår, 1960
+vadsoe_uio_0901 ---> Aldersgruppe, Alder, Fødselsår
+vadsoe_uit_0101 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0102 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0401 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0502 ---> Aldersgruppe, Alder, Fødselsår, 1960
+vadsoe_uit_0701 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+vadsoe_uit_0801 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0802 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0803 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0804 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_0805 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1201 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1202 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår, 1960
+vadsoe_uit_1203 ---> Opptaksår, Fødselsår
+vadsoe_uit_1204 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+vadsoe_uit_1205 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår, 1960
+vadsoe_uit_1401 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1501 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1601 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1602 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1603 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1701 ---> Opptaksår, Aldersgruppe, Alder
+vadsoe_uit_1702 ---> Opptaksår, Aldersgruppe, Alder
+eidskog_uio_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidskog_uio_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+engerdal_ma_01 ---> Alder, Fødselsår
+engerdal_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+engerdal_ma_03 ---> Aldersgruppe, Alder, Fødselsår
+engerdal_ma_14 ---> Aldersgruppe, Alder, Fødselsår
+folldal_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+folldal_uio_0202 ---> Aldersgruppe, Alder, Fødselsår
+folldal_uio_0203 ---> Aldersgruppe, Alder, Fødselsår
+folldal_uio_0204 ---> Aldersgruppe, Alder, Fødselsår
+nordodal_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+rendal_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+rendal_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+tolga_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+tolga_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+tolga_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+aamot_uio_0103 ---> Aldersgruppe, Alder, Fødselsår
+aasnes_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+vinger_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+engerdal_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+trysil_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+trysil_uio_0301 ---> Aldersgruppe, Alder, Fødselsår
+trysil_uio_0302 ---> Aldersgruppe, Alder, Fødselsår
+vangH_uio_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+vinger_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+vinger_uio_0202 ---> Aldersgruppe, Alder, Fødselsår, Kjønn, 1960
+vinger_uio_0203 ---> Aldersgruppe, Alder, Fødselsår, Kjønn, 1960
+austevoll_uib_0302 ---> Aldersgruppe, Alder, Fødselsår
+austevoll_uib_0402 ---> Aldersgruppe, Alder, Fødselsår
+eidfjord_uib_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidfjord_uib_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidfjord_uib_0201 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidfjord_uib_0202 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidfjord_uib_0203 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidfjord_uib_0301 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidfjord_uib_0401 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+etne_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+etne_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+etne_ma_03 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_03 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_04 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_05 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_06 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_07 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_08 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_09 ---> Aldersgruppe, Alder, Fødselsår
+kvinnherad_ma_10 ---> Aldersgruppe, Alder, Fødselsår
+lindaas_uib_0203 ---> Aldersgruppe, Alder, Fødselsår
+lindaas_uib_0204 ---> Aldersgruppe, Alder, Fødselsår
+boemlo_uib_0306 ---> Aldersgruppe, Alder, Fødselsår
+boemlo_uib_0601 ---> Aldersgruppe, Alder, Fødselsår
+samnanger_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+samnanger_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+aukra_ma_01 ---> Fødselsår
+aukra_ma_02 ---> Aldersgruppe, Alder, Fødselsår, Kjønn, 1960
+aure_ntnu_0101 ---> Alder
+bolsoey_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+bolsoey_uio_0201 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+bolsoey_uio_0202 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+bolsoey_uio_0203 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+bolsoey_uio_0204 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+bolsoey_uio_0302 ---> Aldersgruppe, Alder, Fødselsår
+giske_uib_0201 ---> Aldersgruppe, Alder, Fødselsår
+giske_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+halsa_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+halsa_ntnu_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+kvamsoey_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+syvde_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+stordal_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+sunndal_ma_01 ---> Aldersgruppe
+aure_ntnu_0201 ---> Aldersgruppe, Alder
+aure_ntnu_0301 ---> Aldersgruppe, Alder
+aure_ntnu_0302 ---> Aldersgruppe, Alder, Fødselsår
+aure_ntnu_0303 ---> Aldersgruppe, Alder, Fødselsår
+grytten_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+heroeyMR_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+molde_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+molde_uib_0204 ---> Aldersgruppe, Alder, Fødselsår
+molde_uib_0205 ---> Aldersgruppe, Alder, Fødselsår
+stemshaug_ntnu_0201 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+surnadal_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+surnadal_ntnu_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+surnadal_ntnu_0103 ---> Opptaksår, Fødselsår
+ulstein_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+volda_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+volda_uib_0103 ---> Aldersgruppe, Alder, Fødselsår
+volda_uib_0104 ---> Aldersgruppe, Alder, Fødselsår
+volda_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+andenes_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+andoeya_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+andoeya_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+andoeya_ma_03 ---> Aldersgruppe, Alder, Fødselsår
+andoeya_ma_06 ---> Aldersgruppe, Alder, Fødselsår
+gildeskaal_uib_0103 ---> Aldersgruppe, Alder, Fødselsår
+bindal_ntnu_0301 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+bindal_ntnu_0302 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+bindal_ntnu_0303 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+bodoe_uib_0102 ---> Aldersgruppe, Alder, Fødselsår, 1960
+flakstad_uib_0605 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0103 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0303 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0501 ---> Aldersgruppe
+hadsel_uit_0503 ---> Alder, Fødselsår
+hadsel_uit_0504 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0701 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0702 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0803 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0901 ---> Aldersgruppe, Alder, Fødselsår
+hadsel_uit_0902 ---> Aldersgruppe, Alder, Fødselsår
+hemnes_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+hemnes_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+hemnes_uib_0103 ---> Aldersgruppe, Alder, Fødselsår
+hemnes_uib_0104 ---> Aldersgruppe, Alder, Fødselsår
+narvik_uit_0201 ---> Opptaksår, Fødselsår
+narvik_uit_0202 ---> Opptaksår, Fødselsår
+narvik_uit_0203 ---> Opptaksår, Fødselsår
+tysfjord_uit_0101 ---> Opptaksår, Fødselsår
+tysfjord_uit_0103 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+tysfjord_uit_0104 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+tysfjord_uit_0105 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0401 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0402 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0403 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0404 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0405 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0406 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0407 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0408 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0409 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0410 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0411 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0412 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0413 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0501 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0502 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0504 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0505 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0506 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0507 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0601 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0602 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0603 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0604 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0605 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0606 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0607 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0608 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0609 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0610 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0611 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0612 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0613 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0614 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0615 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0616 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0617 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0618 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0619 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0701 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0702 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0703 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0704 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0705 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0706 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0708 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0709 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0710 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0711 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0712 ---> Aldersgruppe, Alder, Fødselsår
+nordli_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+otteroey_ma_01 ---> Alder
+verdal_ntnu_0101 ---> Aldersgruppe, Alder
+verdal_ntnu_0302 ---> Aldersgruppe, Alder
+verdal_ntnu_0303 ---> Aldersgruppe, Alder, Fødselsår
+foldereid_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+foldereid_ntnu_0201 ---> Opptaksår, Aldersgruppe, Alder
+harran_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+hoeylandet_ntnu_0103 ---> Aldersgruppe, Alder, Fødselsår
+hoeylandet_ntnu_0202 ---> Aldersgruppe, Alder, Fødselsår
+hoeylandet_ntnu_0203 ---> Aldersgruppe, Alder, Fødselsår
+kvamNT_uit_0101 ---> Aldersgruppe, Alder
+skogn_ntnu_0801 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0802 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0803 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0804 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0805 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0806 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0807 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0808 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0809 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0810 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0811 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0812 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0813 ---> Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0901 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0902 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0903 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0904 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0905 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0906 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0907 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0908 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0909 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0910 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0911 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+meraaker_ntnu_0101 ---> Aldersgruppe, Alder, Fødselsår
+meraaker_ntnu_0201 ---> Aldersgruppe
+overhalla_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0103 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0104 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0105 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0106 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0107 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0108 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0109 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0110 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0111 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0112 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0113 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0114 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0115 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0116 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+overhalla_ntnu_0117 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+skogn_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+snaasa_ntnu_0801 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+soerli_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+steinkjer_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+verdal_ntnu_0203 ---> Aldersgruppe, Alder, Fødselsår
+leksvik_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder
+biri_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+biri_uio_0104 ---> Aldersgruppe, Alder, Fødselsår
+gausdal_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+gausdal_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+nordreland_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+nordreland_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+nordreland_ma_04 ---> Aldersgruppe, Alder, Fødselsår
+sel_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+sel_uio_0301 ---> Aldersgruppe, Alder, Fødselsår
+skjaak_ma_02 ---> Fødselsår
+soendreland_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+soendreland_uib_0102 ---> Aldersgruppe, Alder
+toten_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+toten_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+toten_ma_03 ---> Aldersgruppe, Alder, Fødselsår
+oeyer_ma_01 ---> Opptaksår, Aldersgruppe, Alder
+oeyer_uio_0101 ---> Opptaksår, Aldersgruppe, Alder
+oeyer_uio_0201 ---> Opptaksår, Aldersgruppe, Alder
+kolbu_uio_0301 ---> Aldersgruppe, Alder
+sel_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+sel_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+soendreland_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+soendreland_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+soendreland_uio_0103 ---> Aldersgruppe, Alder, Fødselsår
+torpa_uio_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+torpa_uio_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår, Kjønn, 1960
+vardal_uio_0205 ---> Aldersgruppe, Alder, Fødselsår, Kjønn, 1960
+eidsberg_uio_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+eidsberg_uio_0102 ---> Opptaksår, Aldersgruppe, Fødselsår
+eidsberg_uio_0201 ---> Opptaksår, Aldersgruppe, Fødselsår
+eidsberg_uio_0301 ---> Opptaksår, Aldersgruppe, Alder
+fredrikstad_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+fredrikstad_uio_0202 ---> Aldersgruppe, Alder, Fødselsår
+fredrikstad_uio_0302 ---> Aldersgruppe, Alder, Fødselsår
+raade_uio_0401 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+sarpsborg_ntnu_0201 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+sarpsborg_ntnu_0202 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+oeymark_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+oeymark_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+aremark_uio_0402 ---> Aldersgruppe, Alder, Fødselsår
+aremark_uio_0601 ---> Aldersgruppe, Alder, Fødselsår
+aremark_uio_1201 ---> Aldersgruppe, Alder, Fødselsår
+aremark_uio_1202 ---> Aldersgruppe, Alder, Fødselsår
+aremark_uio_1203 ---> Aldersgruppe, Alder, Fødselsår
+raade_uio_0301 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+sarpsborg_ntnu_0301 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+sarpsborg_ntnu_0501 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+sarpsborg_ntnu_0701 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+sarpsborg_ntnu_0702 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+finnoey_ma_01 ---> Fødselsår
+hjelmeland_uib_0203 ---> Aldersgruppe, Alder, Fødselsår
+hjelmeland_uib_0204 ---> Aldersgruppe, Alder, Fødselsår
+ogna_ma_01 ---> Fødselsår
+ogna_uib_0401 ---> Aldersgruppe, Alder
+ogna_uib_0402 ---> Aldersgruppe, Alder
+ogna_uib_0403 ---> Aldersgruppe, Alder, Fødselsår
+karmoey_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+karmoey_uib_0104 ---> Aldersgruppe, Alder, Fødselsår
+ogna_uib_0101 ---> Aldersgruppe, Alder
+sand_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+strand_uib_0102 ---> Alder, Fødselsår, Kjønn
+vindafjord_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+aurland_ma_02 ---> Aldersgruppe, Alder, Fødselsår
+eid_uio_0202 ---> Aldersgruppe, Alder, Fødselsår
+davik_uib_0102 ---> Aldersgruppe, Alder
+kinn_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+kinn_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+kinn_uib_0103 ---> Aldersgruppe, Alder, Fødselsår
+kinn_uib_0104 ---> Aldersgruppe, Alder, Fødselsår
+kinn_uib_0105 ---> Aldersgruppe, Alder, Fødselsår
+kinn_uib_0106 ---> Aldersgruppe, Alder, Fødselsår
+hoeyanger_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+jostedal_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+joelster_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+joelster_uib_0201 ---> Aldersgruppe, Alder, Fødselsår
+joelster_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+joelster_uib_0203 ---> Aldersgruppe, Alder, Fødselsår
+selje_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+selje_uib_0103 ---> Aldersgruppe, Alder, Fødselsår
+selje_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+aurland_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+hyllestad_uib_0101 ---> Aldersgruppe, Alder
+hyllestad_uib_0103 ---> Aldersgruppe, Alder
+hyllestad_uib_0105 ---> Alder, Fødselsår, Kjønn
+hyllestad_uib_0106 ---> Alder, Fødselsår, Kjønn
+hyllestad_uib_0107 ---> Aldersgruppe, Alder
+joelster_uib_0301 ---> Aldersgruppe, Alder, Fødselsår
+osen_ntnu_0101 ---> Aldersgruppe, Alder, Fødselsår
+osen_ntnu_0102 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0101 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0102 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0103 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0104 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0105 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0106 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0107 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0401 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0501 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0601 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0701 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0702 ---> Aldersgruppe, Alder, Fødselsår
+trondheim_uib_1002 ---> Aldersgruppe, Alder, Fødselsår
+oerlandet_ntnu_0201 ---> Aldersgruppe, Alder, Fødselsår
+oppdal_ntnu_0201 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+oppdal_ntnu_0301 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår, Kjønn
+skaun_ntnu_0901 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0902 ---> Aldersgruppe, Alder, Fødselsår
+skaun_ntnu_0903 ---> Aldersgruppe, Alder, Fødselsår
+soerfroeya_ntnu_0101 ---> Aldersgruppe, Alder, Fødselsår
+stokksund_ntnu_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+trondheim_uib_1703 ---> Aldersgruppe, Alder, Fødselsår
+trondheim_uib_2702 ---> Aldersgruppe, Alder, Fødselsår
+trondheim_uib_2802 ---> Aldersgruppe, Alder, Fødselsår
+trondheim_uib_3502 ---> Aldersgruppe, Alder, Fødselsår
+trondheim_uib_3802 ---> Aldersgruppe, Alder, Fødselsår
+tydal_ntnu_0201 ---> Aldersgruppe, Alder
+tydal_ntnu_0401 ---> Fødselsår
+drangedal_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+hjartdal_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0302 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0301 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0403 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0402 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0401 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0501 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0502 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0503 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0504 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0505 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0506 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0507 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0508 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0602 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0701 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0702 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0703 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0704 ---> Aldersgruppe, Alder, Fødselsår
+sauherad_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+sauherad_uio_0103 ---> Aldersgruppe, Alder, Fødselsår
+seljord_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0201 ---> Aldersgruppe, Alder, Fødselsår
+krageroe_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+bardu_uit_0101 ---> Opptaksår, Aldersgruppe, Alder
+bardu_uit_0202 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_1002 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_1003 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_1005 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_1102 ---> Aldersgruppe, Alder, Fødselsår
+berg_uit_0201 ---> Aldersgruppe, Alder, Fødselsår
+kvaefjord_uit_0101 ---> Aldersgruppe, Alder, Fødselsår
+kvaefjord_uit_0102 ---> Aldersgruppe, Alder, Fødselsår
+kvaefjord_uit_0103 ---> Aldersgruppe, Alder, Fødselsår
+skjervoey_uit_1301 ---> Aldersgruppe, Alder, Fødselsår
+lavangen_uit_1002 ---> Aldersgruppe, Alder, Fødselsår
+lyngen_uit_0101 ---> Aldersgruppe, Alder, Fødselsår
+lyngen_uit_0102 ---> Alder, Fødselsår
+lyngen_uit_0103 ---> Aldersgruppe, Alder, Fødselsår
+lyngen_uit_0104 ---> Aldersgruppe, Alder, Fødselsår
+lyngen_uit_0105 ---> Alder, Fødselsår
+lyngen_uit_0106 ---> Alder, Fødselsår
+lyngen_uit_0107 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uio_0201 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uio_0301 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uio_0402 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0101 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0102 ---> Opptaksår, Aldersgruppe, Alder
+bardu_uit_0501 ---> Opptaksår, Aldersgruppe, Alder
+maalselv_uit_0301 ---> Opptaksår, Aldersgruppe, Alder
+bardu_uit_0601 ---> Opptaksår, Aldersgruppe, Alder
+bardu_uit_0602 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+signaldalen_ma_03 ---> Aldersgruppe, Alder, Fødselsår
+soerreisa_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+storfjord_uit_1002 ---> Aldersgruppe, Alder, Fødselsår
+torsken_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+tranoey_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+tranoey_uit_0101 ---> Aldersgruppe, Alder, Fødselsår
+tranoey_uit_0201 ---> Aldersgruppe, Alder, Fødselsår
+tranoey_uit_0901 ---> Opptaksår, Aldersgruppe, Alder
+tranoey_uit_0902 ---> Opptaksår, Aldersgruppe, Alder
+tromsoeysund_uio_0101 ---> Aldersgruppe, Alder, Fødselsår
+tromsoeysund_uio_0102 ---> Aldersgruppe, Alder, Fødselsår
+tromsoeysund_uit_1002 ---> Aldersgruppe, Alder, Fødselsår
+berg_uit_0302 ---> Aldersgruppe, Alder, Fødselsår
+berg_uit_0303 ---> Aldersgruppe, Alder, Fødselsår
+berg_uit_0801 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0301 ---> Opptaksår, Fødselsår
+hillesoey_uit_0402 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0501 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0502 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0503 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0504 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0602 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0701 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0702 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0801 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0802 ---> Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0901 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0902 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0903 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_0904 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+hillesoey_uit_1301 ---> Aldersgruppe, Alder, Fødselsår
+kvaenangen_uit_0502 ---> Aldersgruppe, Alder, Fødselsår
+kvaenangen_uit_0503 ---> Aldersgruppe, Alder, Fødselsår
+kvaenangen_uit_0504 ---> Aldersgruppe, Alder
+lavangen_uit_0103 ---> Aldersgruppe, Alder, Fødselsår
+lavangen_uit_0703 ---> Aldersgruppe, Alder, Fødselsår
+lavangen_uit_1102 ---> Aldersgruppe, Alder, Fødselsår, 1960
+lavangen_uit_1302 ---> Aldersgruppe, Alder, Fødselsår, 1960
+lavangen_uit_1403 ---> Aldersgruppe, Alder, Fødselsår, 1960
+lavangen_uit_1502 ---> Aldersgruppe, Alder, Fødselsår, 1960
+lenvik_uit_0101 ---> Opptaksår, Aldersgruppe, Alder
+lenvik_uit_0201 ---> Opptaksår, Aldersgruppe, Alder
+lyngen_uit_0602 ---> Aldersgruppe, Alder, Fødselsår
+lyngen_uit_0701 ---> 1960
+lyngen_uit_0803 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0602 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0603 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0604 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0609 ---> Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0701 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+maalselv_uit_0801 ---> Opptaksår, Aldersgruppe, Alder
+maalselv_uit_0802 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+storfjord_uit_0202 ---> Aldersgruppe, Alder, Fødselsår, 1960
+storfjord_uit_1103 ---> Aldersgruppe, Alder, Fødselsår, 1960
+torsken_uit_0201 ---> Fødselsår
+torsken_uit_0202 ---> Aldersgruppe, Alder, Fødselsår
+torsken_uit_0203 ---> Aldersgruppe, Alder, Fødselsår
+torsken_uit_0204 ---> Aldersgruppe, Alder, Fødselsår, Kjønn, 1960
+torsken_uit_0401 ---> Aldersgruppe, Alder, Fødselsår
+torsken_uit_1101 ---> Aldersgruppe, Alder, Fødselsår
+tranoey_uit_0401 ---> Opptaksår, Fødselsår
+aaseral_ma_01 ---> Aldersgruppe, Alder, Fødselsår
+eiken_uio_0203 ---> Aldersgruppe, Alder, Fødselsår
+eiken_uio_0204 ---> Aldersgruppe, Alder, Fødselsår
+oevresirdal_ma_01 ---> Opptaksår, Aldersgruppe, Alder
+tonstad_uio_0101 ---> Opptaksår, Aldersgruppe, Alder
+tonstad_uio_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+kristiansand_uib_0101 ---> Opptaksår, Aldersgruppe, Alder
+kristiansand_uib_0102 ---> Opptaksår, Aldersgruppe, Alder
+lista_uib_0101 ---> Aldersgruppe, Alder, Fødselsår
+lista_uib_0102 ---> Aldersgruppe, Alder, Fødselsår
+lista_uib_0103 ---> Aldersgruppe, Alder, Fødselsår
+lista_uib_0201 ---> Aldersgruppe, Alder, Fødselsår
+lista_uib_0202 ---> Aldersgruppe, Alder, Fødselsår
+lista_uib_0203 ---> Aldersgruppe, Alder, Fødselsår
+lyngdal_uib_0101 ---> Aldersgruppe, Alder
+lyngdal_uib_0102 ---> Aldersgruppe, Alder
+lyngdal_uib_0104 ---> Aldersgruppe, Alder
+lyngdal_uib_0106 ---> Aldersgruppe, Alder
+lyngdal_uib_0107 ---> Aldersgruppe, Alder
+oevresirdal_uio_0101 ---> Opptaksår, Aldersgruppe, Alder
+oevresirdal_uio_0102 ---> Opptaksår, Aldersgruppe, Alder, Fødselsår
+oevresirdal_uio_0103 ---> Opptaksår, Aldersgruppe, Alder
+brunlanes_ma_03 ---> Aldersgruppe, Alder, Fødselsår
