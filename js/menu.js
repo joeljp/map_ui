@@ -51,8 +51,8 @@ function showTIDS(tids){
     });
 }
 
-
 function discrete(id, v){
+    console.log("discrete", id, v);
     // CREATES THE «checkbox» STYLE divs with their Sets.add_set and Sets.rem_set calls
     // They also call update()
     $.each(v, function(i,e){Sets.add_set(id, e);});
@@ -62,6 +62,7 @@ function discrete(id, v){
     let nul = $("<div>Ø</div>");
     
     $.each(v, function(i,e){
+	console.log("each", id, i, e);
 	let set = $("<div>",{class: "cell", text: e, id: id+"_"+e}).click(function(){
 	    if($(this).data("selected")){
 		$(this).css('background-color', '#f50');
@@ -83,15 +84,42 @@ function discrete(id, v){
     });
     $("#inner-grid").append(tit,ind,sel,nul);
 }
+function selector(id, e){
+    let set = $("<div>",{class: "cell", text: e, id: id+"_"+e}).click(function(){
+	if($(this).data("selected")){
+	    $(this).css('background-color', '#f50');
+	    $(this).data("selected", false);
+//	    v.splice( $.inArray(e, v), 1 );
+//	    $("#indicator"+id).html(v.toString());
+	    Sets.rem_set(id,e); // remove this set from the hash of selected sets
+	}
+	else{
+//	    v.push(e);
+//	    $("#indicator"+id).html(v.toString());
+	    $(this).css('background-color', '#5f5');
+	    $(this).data("selected", true);
+	    Sets.add_set(id,e); // add this set to the hash of selected sets
+	}
+	update();
+    }).data("selected", true).css('background-color', '#8f8');
+    return set;
+}
 
 function interval(id,min,max, nulls = false){
+    // console.log(id, min, max, nulls);
     // CREATES THE «range slider» STYLE divs with their Sets.updateInterval calls
     // They also call update()
     Sets.interval_add_set(id,min,max);
     let tit = $("<div class='cats' id='"+id+"'>"+id+"</div>");
     let ind = $("<div><span id='slider-indicatorL"+id+"'>"+min+"</span> - <span id='slider-indicatorR"+id+"'>"+max+"</span></div>");
     let sld = $("<div><div id='slider-range"+id+"' /></div>");
-    let nul = $("<div>Ø</div>");
+    let nul = $("<div></div>");
+    if(nulls){
+	nul = selector(id, "null");
+//	Sets.add_set(id, "null");
+//	update();
+//	nul.text("Øink");
+    }
     $("#inner-grid").append(tit,ind,sld,nul);
     mmin = min;
     mmax = max;
@@ -121,9 +149,16 @@ function initMenu(){
 	if(k == "age" || k == "birth" || k == "rec"){                               // IE, integer -> ranges/inervals
 	    let min = 99999;
 	    let max = 0;
+	    let nulls = false
 	    $.each(v, function(i,e){
+		if(i == "null"){
+		    nulls = true;
+		    return;
+		}
 		i = parseInt(i);
-		if(i == null){console.log("OINK!");}
+		if(typeof(i) != "number"){ // this will not happen, du to above line
+		    console.log("OINK", k,i);
+		}
 		if(i > max){max = i;}
 		if(i < min){min = i;}
 		if(k == "age" & false){ // this is just here for finding rogue vals
@@ -131,7 +166,7 @@ function initMenu(){
 		    console.log(stringo, "--->",min,max);
 		}
 	    });
-	    interval(k,min,max);
+	    interval(k,min,max, nulls);
 	}
 	else{                                                                       // IE, discrete -> check box
 	    vals = [];
