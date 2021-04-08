@@ -32,13 +32,13 @@ let allMarkers = [];
 function initJSON(){
     let locs = [];
     // READ META. LOOKS LIKE THIS: [["tid","birth","sex",…],["ankarsrum_om1",1934,"M",…], … ]
-    $.getJSON("dat/lia.json", function(json){ // was meta.json
+    $.getJSON("dat/lia/meta.json", function(json){ // was meta.json
 	Sets.initSuperSet(json);
 	locs = Object.keys(Sets.SuperSet["place"]);
 	initMenu();
     });
     // READ COORDINATES AND INIT MAP
-    $.getJSON("dat/lia.coords.json", function(json) { // was ndc.json
+    $.getJSON("dat/lia/coords.json", function(json) { // was ndc.json
 	initMap(json, locs);
     });
 }
@@ -122,9 +122,14 @@ function initMenu(){
 	    let min = 99999;
 	    let max = 0;
 	    $.each(v, function(i,e){
+		i = parseInt(i);
 		if(i == null){console.log("OINK!");}
-		if(i > max){max=i}
-		if(i < min){min=i}
+		if(i > max){max = i;}
+		if(i < min){min = i;}
+		if(k == "age" & false){ // this is just here for finding rogue vals
+		    console.log(typeof i);
+		    console.log(stringo, "--->",min,max);
+		}
 	    });
 	    interval(k,min,max);
 	}

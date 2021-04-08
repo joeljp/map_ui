@@ -6,12 +6,12 @@ meta = CSV.read(ARGV[0], { :col_sep => "\t", :headers => true, encoding: "UTF-8"
 
 json = []
 
-# The following three lines will a corpus specific
+# The following three lines are corpus specific
 @new_cols = %w(tid rec agegroup age birth sex place)
-@cols = %w(tid Opptaksår Aldersgruppe Alder Fødselsår Kjønn 1960) # IE, the attributes we're interested in, as many seem irrelevant. EG, I just removed Aldersgruppe, as this won't add any functionality
-@integer_vals = %w(Opptaksår Alder Fødselsår Aldersgrupp)
+@cols = %w(tid Opptaksår Alder Fødselsår Kjønn 1960) # IE, the attributes we're interested in, as many seem irrelevant. EG, I just removed Aldersgruppe, as this won't add any functionality
+@integer_vals = %w(Opptaksår Alder Fødselsår)
 
-@nils = Hash.new{|h,k| h[k] = []}
+#@nils = Hash.new{|h,k| h[k] = []}
 @tid2missingVals = Hash.new{|h,k| h[k] = []}
 
 json.push @new_cols
@@ -22,7 +22,7 @@ meta.each do |r|
   @cols.each do |h|
     elt = r[h]
     if elt.nil?
-      @nils[h].push tid
+#      @nils[h].push tid
       @tid2missingVals[tid].push h
       row.push nil
       next

@@ -31,7 +31,9 @@ class Sets {
 	for (const [k, v] of Object.entries(meta.slice(1,meta.length))) {
 	    let tid = v[0];
 	    for (const [i, e] of Object.entries(v)){
-		if(e !== null & i != 0 & e != 0){ 
+		//		if(e !== null & i != 0 & e != 0){
+		// have tentatively removed the null bit because we need to access these values, perhaps
+		if(i != 0 & e != 0){
 		    let key = column_names[i];
 		    if(key == "place"){this.tid2loc[tid] = e}
 		    if(!(e in this.SuperSet[key])){

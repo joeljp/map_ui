@@ -15,7 +15,7 @@ require "csv"
 meta = CSV.read(ARGV[0], { :col_sep => "\t", :headers => true, encoding: "UTF-8" })
 # Remove superfluous columns
 
-wanted = %w(tid Opptaksår Aldersgruppe Alder Fødselsår Kjønn 1960)
+wanted = %w(tid Opptaksår Alder Fødselsår Kjønn 1960)
 
 meta.headers.each {|h| meta.delete(h) unless wanted.include?(h)}
 
@@ -41,7 +41,7 @@ STDERR.puts missing.keys.to_s
 
 # 2. Write new file WITH NEW TID
 
-CSV.open("lia.mini.tsv", "wb", :write_headers => true, :headers => ["tid","rec","agegroup","age","birth","sex","place"], :col_sep => "\t") do |tsv|
+CSV.open("lia.mini.tsv", "wb", :write_headers => true, :headers => ["tid","rec","age","birth","sex","place"], :col_sep => "\t") do |tsv|
   meta.each do |r|
     tsv << r
   end
