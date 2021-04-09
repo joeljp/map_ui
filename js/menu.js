@@ -89,13 +89,11 @@ function selector(id, e){
 	if($(this).data("selected")){
 	    $(this).css('background-color', '#f50');
 	    $(this).data("selected", false);
-//	    v.splice( $.inArray(e, v), 1 );
-//	    $("#indicator"+id).html(v.toString());
 	    Sets.rem_set(id,e); // remove this set from the hash of selected sets
 	}
 	else{
-//	    v.push(e);
-//	    $("#indicator"+id).html(v.toString());
+	    $("#slider-range"+id).slider("values", 0, $("#slider-range"+id).slider("option", "min")); // reset the slider range, coz having interval + null makes no sense
+	    $("#slider-range"+id).slider("values", 1, $("#slider-range"+id).slider("option", "max"));
 	    $(this).css('background-color', '#5f5');
 	    $(this).data("selected", true);
 	    Sets.add_set(id,e); // add this set to the hash of selected sets
@@ -115,8 +113,8 @@ function interval(id,min,max, nulls = false){
     let sld = $("<div><div id='slider-range"+id+"' /></div>");
     let nul = $("<div></div>");
     if(nulls){
+	Sets.add_set(id, "null");
 	nul = selector(id, "null");
-//	Sets.add_set(id, "null");
 //	update();
 //	nul.text("Øink");
     }
@@ -140,6 +138,12 @@ function interval(id,min,max, nulls = false){
 	    update();
 	}
     });
+    $("#slider-range"+id).data("min", mmin);
+    $("#slider-range"+id).data("max", mmax);
+
+    // $("#slider-rangebirth").slider("values", 0, $("#slider-rangebirth").slider("option", "min"));
+    
+    $("#slider-range"+id).bind("reset", function(){console.log("oink");});
 }
 
 function initMenu(){
