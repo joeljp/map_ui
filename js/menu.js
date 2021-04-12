@@ -43,7 +43,22 @@ function initJSON(){
     });
 }
 let shown = false;
+
+function array_difference(a,b){
+    let difference = a.filter(x => !b.includes(x));
+}
+function array_intersection(a,b){
+    let difference = a.filter(x => b.includes(x));
+}
+
+let test = false; // this is just to facilitate metadata consistency checks
+let last = []; // this is just to facilitate metadata consistency checks
 function showTIDS(tids){
+    if(test){
+	let diff = Array.from(tids).filter(x => !last.includes(x));
+	console.log(diff);
+	last = Array.from(tids);
+    }
     console.log(tids);
     return true;
     tids.forEach(function(tid){
@@ -51,8 +66,32 @@ function showTIDS(tids){
     });
 }
 
-function discrete(id, v){
-    console.log("discrete", id, v);
+function selector(id, e){
+    let size = Sets.SuperSet[id].null.size
+    let set = $("<div>",{class: "cell", text: size, id: id+"_"+e}).click(function(){
+	if($(this).data("selected")){
+	    $(this).css('background-color', '#f50');
+	    $(this).data("selected", false);
+	    Sets.rem_set(id,e); // remove this set from the hash of selected sets
+	}
+	else{
+	    let rangeslider = $("#slider-range"+id);
+	    if(rangeslider.length){
+		rangeslider.slider("option","reset")();
+	    }
+	    else{
+		console.log("It's a button");
+	    }
+	    $(this).css('background-color', '#5f5');
+	    $(this).data("selected", true);
+	    Sets.add_set(id,e); // add this set to the hash of selected sets
+	}
+	update();
+    }).data("selected", true).css('background-color', '#8f8');
+    return set;
+}
+function discrete(id, v, nulls = false){
+    // console.log("discrete", id, v);
     // CREATES THE «checkbox» STYLE divs with their Sets.add_set and Sets.rem_set calls
     // They also call update()
     $.each(v, function(i,e){Sets.add_set(id, e);});
@@ -60,10 +99,16 @@ function discrete(id, v){
     let ind = $("<div id='indicator"+id+"'>"+v+"</div>");
     let sel = $("<div class='selector' id='selector"+id+"'/>");
     let nul = $("<div>Ø</div>");
-    
+    if(nulls){
+	Sets.add_set(id, "null");
+	nul = selector(id, "null");
+    }
     $.each(v, function(i,e){
-	console.log("each", id, i, e);
+	//console.log("each", id, i, e);
 	let set = $("<div>",{class: "cell", text: e, id: id+"_"+e}).click(function(){
+	    if(nul.data("selected")){
+		nul.trigger("click");
+	    }
 	    if($(this).data("selected")){
 		$(this).css('background-color', '#f50');
 		$(this).data("selected", false);
@@ -84,25 +129,6 @@ function discrete(id, v){
     });
     $("#inner-grid").append(tit,ind,sel,nul);
 }
-function selector(id, e){
-    let set = $("<div>",{class: "cell", text: e, id: id+"_"+e}).click(function(){
-	if($(this).data("selected")){
-	    $(this).css('background-color', '#f50');
-	    $(this).data("selected", false);
-	    Sets.rem_set(id,e); // remove this set from the hash of selected sets
-	}
-	else{
-	    $("#slider-range"+id).slider("values", 0, $("#slider-range"+id).slider("option", "min")); // reset the slider range, coz having interval + null makes no sense
-	    $("#slider-range"+id).slider("values", 1, $("#slider-range"+id).slider("option", "max"));
-	    $(this).css('background-color', '#5f5');
-	    $(this).data("selected", true);
-	    Sets.add_set(id,e); // add this set to the hash of selected sets
-	}
-	update();
-    }).data("selected", true).css('background-color', '#8f8');
-    return set;
-}
-
 function interval(id,min,max, nulls = false){
     // console.log(id, min, max, nulls);
     // CREATES THE «range slider» STYLE divs with their Sets.updateInterval calls
@@ -115,20 +141,21 @@ function interval(id,min,max, nulls = false){
     if(nulls){
 	Sets.add_set(id, "null");
 	nul = selector(id, "null");
-//	update();
-//	nul.text("Øink");
     }
     $("#inner-grid").append(tit,ind,sld,nul);
-    mmin = min;
-    mmax = max;
-    mmin--;
-    mmax++;
     $("#slider-range"+id).slider({
 	range: true,
-	min: mmin,
-	max: mmax,
+	min: (min - 1),
+	max: (max + 1),
 	step: 1,
 	values: [min, max],
+	reset: function(){
+	    $("#slider-range"+id).slider("values", 0, min);
+	    $("#slider-range"+id).slider("values", 1, max);
+	    $('#slider-indicatorL'+id).html(min);
+	    $('#slider-indicatorR'+id).html(max);
+	    Sets.interval_add_set(id,min,max);
+	},
 	slide: function (e, ui) {
 	    let from = ui.values[0];
 	    let to   = ui.values[1];
@@ -136,24 +163,26 @@ function interval(id,min,max, nulls = false){
 	    $('#slider-indicatorR'+id).html(to);
 	    Sets.interval_add_set(id,from,to);
 	    update();
+	},
+	change: function(){
+	    if(nul.data("selected")){ // IE, on changing range, the null selector should be diactivated
+		nul.trigger("click");
+	    }
 	}
     });
-    $("#slider-range"+id).data("min", mmin);
-    $("#slider-range"+id).data("max", mmax);
-
-    // $("#slider-rangebirth").slider("values", 0, $("#slider-rangebirth").slider("option", "min"));
-    
-    $("#slider-range"+id).bind("reset", function(){console.log("oink");});
+    $("#slider-range"+id).data("min", min); // not in use right now..
+    $("#slider-range"+id).data("max", max); // not in use right now..
 }
 
 function initMenu(){
     $("#inner-grid").append($("<div>Informants</div>"), $("<div id='n_tids' />"),$("<div><span>Locations </span><span id='n_locs' /></div>"),$("<div>Null</div>"));
     $.each(Sets.SuperSet, function(k,v){
 	if(["place","area","region","country","agegroup"].includes(k)){return true} // IE, geographical stuff, for the map
+	let nulls = false
+	
 	if(k == "age" || k == "birth" || k == "rec"){                               // IE, integer -> ranges/inervals
 	    let min = 99999;
 	    let max = 0;
-	    let nulls = false
 	    $.each(v, function(i,e){
 		if(i == "null"){
 		    nulls = true;
@@ -175,9 +204,13 @@ function initMenu(){
 	else{                                                                       // IE, discrete -> check box
 	    vals = [];
 	    $.each(v, function(i,e){
+		if(i == "null"){
+		    nulls = true;
+		    return;
+		}
 		vals.push(i);
 	    });
-	    discrete(k,vals);
+	    discrete(k,vals, nulls);
 	}
     });
     update();

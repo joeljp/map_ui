@@ -14,6 +14,9 @@ function intersection(sets){ // uses the spread operator (...), iteratively
     if(!inter){return new Set}
     return inter;
 }
+function difference(a,b){
+    arr1.filter(x => !arr2.includes(x));
+}
 class Sets {
 
     static activeSets = {};
