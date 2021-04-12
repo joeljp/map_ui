@@ -80,7 +80,14 @@ function selector(id, e){
 		rangeslider.slider("option","reset")();
 	    }
 	    else{
-		console.log("It's a button");
+		$("[id^="+id+"_]").each(function(){
+		    if(!$(this).data("selected")){
+			console.log("It's a button "+$(this).attr('id'));
+			if(!$(this).attr('id') == id+"_null"){
+			    $(this).click();
+			}
+		    }
+		});
 	    }
 	    $(this).css('background-color', '#5f5');
 	    $(this).data("selected", true);
