@@ -44,6 +44,7 @@ function initJSON(){
 }
 let shown = false;
 
+/* these next two don't seem to be in use */
 function array_difference(a,b){
     let difference = a.filter(x => !b.includes(x));
 }
@@ -77,13 +78,12 @@ function selector(id, e){
 	else{
 	    let rangeslider = $("#slider-range"+id);
 	    if(rangeslider.length){
-		rangeslider.slider("option","reset")();
+//		rangeslider.slider("option","reset")();   // Commented this out. It's for resetting the slider when adding null values to range
 	    }
 	    else{
 		$("[id^="+id+"_]").each(function(){
 		    if(!$(this).data("selected")){
-			console.log("It's a button "+$(this).attr('id'));
-			if(!$(this).attr('id') == id+"_null"){
+			if($(this).attr('id') != id+"_null"){
 			    $(this).click();
 			}
 		    }
@@ -114,7 +114,7 @@ function discrete(id, v, nulls = false){
 	//console.log("each", id, i, e);
 	let set = $("<div>",{class: "cell", text: e, id: id+"_"+e}).click(function(){
 	    if(nul.data("selected")){
-		nul.trigger("click");
+//		nul.trigger("click");
 	    }
 	    if($(this).data("selected")){
 		$(this).css('background-color', '#f50');
@@ -149,8 +149,9 @@ function interval(id,min,max, nulls = false){
 	Sets.add_set(id, "null");
 	nul = selector(id, "null");
     }
-    $("#inner-grid").append(tit,ind,sld,nul);
-    $("#slider-range"+id).slider({
+//    $("#inner-grid").append(tit,ind,sld,nul);
+//    $("#slider-range"+id).slider({
+    sld.slider({
 	range: true,
 	min: (min - 1),
 	max: (max + 1),
@@ -169,20 +170,24 @@ function interval(id,min,max, nulls = false){
 	    $('#slider-indicatorL'+id).html(from);
 	    $('#slider-indicatorR'+id).html(to);
 	    Sets.interval_add_set(id,from,to);
+	    if(nul.data("selected")){ // this clause is added as it turns out we might want to retain the null value in the selection after all.
+		Sets.add_set(id, null); // 
+	    }
 	    update();
 	},
 	change: function(){
 	    if(nul.data("selected")){ // IE, on changing range, the null selector should be diactivated
-		nul.trigger("click");
+//		nul.trigger("click");
 	    }
 	}
     });
     $("#slider-range"+id).data("min", min); // not in use right now..
     $("#slider-range"+id).data("max", max); // not in use right now..
+    return [tit,ind,sld,nul];
 }
 
 function initMenu(){
-    $("#inner-grid").append($("<div>Informants</div>"), $("<div id='n_tids' />"),$("<div><span>Locations </span><span id='n_locs' /></div>"),$("<div>Null</div>"));
+    $("#inner-grid").append($("<div></div>"), $("<div>Selected</div>"),$("<div><span>Speakers: </span><span id='n_tids'></span> - <span>Locations: </span><span id='n_locs' /></div>"),$("<div>Null</div>"));
     $.each(Sets.SuperSet, function(k,v){
 	if(["place","area","region","country","agegroup"].includes(k)){return true} // IE, geographical stuff, for the map
 	let nulls = false
@@ -195,18 +200,18 @@ function initMenu(){
 		    nulls = true;
 		    return;
 		}
-		i = parseInt(i);
-		if(typeof(i) != "number"){ // this will not happen, du to above line
-		    console.log("OINK", k,i);
-		}
+		i = parseInt(i); // the keys are string reps of ints (Javascript converts them to strings), so they must be correctly parsed to ints
 		if(i > max){max = i;}
 		if(i < min){min = i;}
-		if(k == "age" & false){ // this is just here for finding rogue vals
+		
+		if(k == "age" & false){ // this is just here for finding rogue vals. Switched off
 		    console.log(typeof i);
 		    console.log(stringo, "--->",min,max);
 		}
 	    });
-	    interval(k,min,max, nulls);
+	    row = interval(k,min,max, nulls);
+	    console.log(row, "banana");
+	    $("#inner-grid").append(row);
 	}
 	else{                                                                       // IE, discrete -> check box
 	    vals = [];
