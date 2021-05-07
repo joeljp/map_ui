@@ -134,6 +134,7 @@ function discrete(id, v, nulls = false){
 	}).data("selected", true).css('background-color', '#8f8');
 	sel.append(set);
     });
+    return [tit,ind,sel,nul];
     $("#inner-grid").append(tit,ind,sel,nul);
 }
 function interval(id,min,max, nulls = false){
@@ -149,7 +150,7 @@ function interval(id,min,max, nulls = false){
 	Sets.add_set(id, "null");
 	nul = selector(id, "null");
     }
-//    $("#inner-grid").append(tit,ind,sld,nul);
+//    $("#inner-grid").append(tit,ind,sld,nul);  // the function now returns the four divs as an array.
 //    $("#slider-range"+id).slider({
     sld.slider({
 	range: true,
@@ -209,9 +210,7 @@ function initMenu(){
 		    console.log(stringo, "--->",min,max);
 		}
 	    });
-	    row = interval(k,min,max, nulls);
-	    console.log(row, "banana");
-	    $("#inner-grid").append(row);
+	    $("#inner-grid").append(interval(k,min,max, nulls));
 	}
 	else{                                                                       // IE, discrete -> check box
 	    vals = [];
@@ -222,7 +221,7 @@ function initMenu(){
 		}
 		vals.push(i);
 	    });
-	    discrete(k,vals, nulls);
+	    $("#inner-grid").append(discrete(k,vals, nulls));
 	}
     });
     update();
