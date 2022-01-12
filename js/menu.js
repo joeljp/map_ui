@@ -300,7 +300,7 @@ function area(markers,polygons, msg){
     Sets.remove_active_set("place");
     $.each(polygons, function(i,polygon){
 	$.each(markers, function(j,marker){
-	    if(google.maps.geometry.poly.containsLocation(marker, polygon)){
+	    if(google.maps.geometry.poly.containsLocation(marker.latlng, polygon)){
 		Sets.add_set("place", marker.title);
 	    }
 	});
@@ -367,6 +367,9 @@ function plot(data,locs){
 	    mz.push(marker);
 	    allMarkers.push({title: key,
 			     active: true,
+			     latlng: new google.maps.LatLng(data[key][0], data[key][1]),
+			     /*
+			       // This solution no longer works ¯\_(ツ)_/¯
 			     lat:
 			     function lat(){
 				 return data[key][0]
@@ -375,6 +378,7 @@ function plot(data,locs){
 			     function lng(){
 				 return data[key][1]
 			     }
+			     */
 			    });
 	}
     })
